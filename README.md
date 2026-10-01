@@ -1,18 +1,200 @@
-Mr. Rishabh Rathore is a student of Bachelor of Science in Computer Science and Data Analytics in the Department of Computer Science & Engineering at the Indian Institute of Technology (IIT) Patna. His journey as an emerging innovator and researcher reflects dedication, perseverance, scientific curiosity and a strong commitment towards the fields of science, technology, research and innovation.
-He has received several international recognitions through the NASA Space Apps Challenge, including NASA Galactic Problem Solver, NASA Space Apps Global Nominee, and People’s Choice recognition. His achievements include:
-NASA Galactic Problem Solver 
-NASA Space Apps Global Nominee
-People’s Choice 
-1st Place – University of Georgia Space Apps Challenge, Athens, Georgia – 2025
-During the NASA Space Apps Challenge, Shri Rathore, together with his global team, developed “NE-AR” (Naturalists Explorer – Augmented Reality), an Augmented Reality application aimed at addressing climate-change challenges by promoting public awareness and scientific understanding. His work reflects an effort to use emerging technologies for environmental and global social impact. The application submitted for the Uttar Pradesh Gaurav Samman also highlights his active engagement with Space Science and Technology research.
-Shri Rathore has continuously developed technical expertise in Python, C++, Java, HTML, CSS, JavaScript, Machine Learning, Data Analytics, Web and App Development, Robotics, Cyber Security and Cloud Computing. He has also undertaken academic and technical learning through reputed institutions, including ISRO–IIRS, IIT Kanpur, NIT Rourkela, NIT Tiruchirappalli, MNNIT and IIIT, in areas such as geodata processing, deep learning, cyber security, biomedical imaging, machine learning, robotic systems and bioengineering.
-Of particular relevance to his scientific journey, Shri Rathore served as a Science/Engineering Research Intern at ISRO–Indian Institute of Remote Sensing (ISRO-IIRS), Dehradun, from May 2025 to May 2026. His professional experience also includes completion of the HCL-GUVI Full Stack Development Programme, frontend development experience with Prodesk IT & Engineering Services, and professional experience as an Assistant Sales Consultant at Paisabazaar. He has additionally participated in IEEE Distinguished Lectures, including “Deep Learning in FPGA” and “Memory Interface: Past, Present and Future.”
-At the national level, Shri Rathore has also been recognised for his participation and performance in the National Space Day Quiz, receiving an appreciation certificate associated with ISRO and MyGov, presented by the Secretary, Department of Space and Chairman, ISRO, Dr. V. N. Narayanan.
-Beyond academics and technology, Shri Rathore has demonstrated an interest in environmental sustainability, social responsibility and national initiatives, including Mission LiFE, Swachh Bharat Mission and Fit India Movement. His profile reflects an intersection of technical learning, research, innovation, environmental awareness and service-oriented values.
-His association with and recognition through organisations and platforms such as IIT Patna, ISRO, NASA, IEEE and MyGov, striving to build a meaningful career in science, technology and innovation.
 
+<!-- ═══════════════ HERO SECTION ═══════════════ -->
 
+<div align="center">
 
+<img src="assets/banner.png" width="100%" alt="Rishabh Rathore Banner"/>
 
+<br/>
 
-<a id="user-content-a-passionate-data-scientist-and-machine-learning-enthusiast-i-am-a-bachelor-of-technology-in-computer-science-and-engineering-from-indore-institute-of-science-and-technology-i-have-expertise-in-python-cc-and-mysql-and-am-skilled-in-data-science-machine-learning-data-analysis-and-visualization" class="anchor" aria-label="Permalink: A passionate data scientist and machine learning enthusiast. I am a Bachelor of Technology in Computer Science and Engineering from Indore Institute of Science and Technology. I have expertise in Python, C/C++, and MySQL, and am skilled in data science, machine learning, data analysis, and visualization." href="#a-passionate-data-scientist-and-machine-learning-enthusiast-i-am-a-bachelor-of-technology-in-computer-science-and-engineering-from-indore-institute-of-science-and-technology-i-have-expertise-in-python-cc-and-mysql-and-am-skilled-in-data-science-machine-learning-data-analysis-and-visualization"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;NLP+%26+AI+Practitioner;Open+Source+Contributor;Turning+Ideas+Into+Impact" alt="Typing SVG"/>
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+**Rishabh Rathore** is a technology enthusiast and student at **IIT Patna**, passionate about transforming complex challenges into intelligent, data-driven solutions.
+
+- 🎓 Student at **Indian Institute of Technology, Patna**
+- 🧠 Interested in **Data Science, AI & Machine Learning**
+- 🔬 Exploring **Natural Language Processing & Deep Learning**
+- 💻 Experienced in Python, C/C++, SQL and data analytics
+- 🌱 Continuously learning, building and experimenting
+- 🌐 Interested in Open Source, research and innovation
+- 🎯 Focused on creating meaningful real-world impact
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## ⚡ Tech Stack & Expertise
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql&theme=dark" />
+
+### Data Science & Machine Learning
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask&theme=dark"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+
+## 💼 Experience & Research
+
+<details open>
+<summary><b>Web Development & NLP Intern | Syn... Labs</b></summary>
+
+📅 September 2023 – Present *(Update dates as applicable)*
+
+- Worked on web development and Natural Language Processing.
+- Explored NLP techniques and their practical applications.
+- Contributed to technical development and project workflows.
+
+</details>
+
+<details>
+<summary><b>Summer Research Intern | IIT Patna</b></summary>
+
+📅 June 2023 – July 2023
+
+- Conducted data collection, annotation and ground-truthing for a research project.
+- Applied deep learning methods to understand and analyze data.
+- Contributed to research activities and technical documentation.
+
+</details>
+
+<details>
+<summary><b>Research Intern | IIT Patna</b></summary>
+
+📅 September 2022 – December 2022
+
+- Worked on image-based research and data collection.
+- Assisted with image annotation and data organization.
+- Explored computer vision and machine learning workflows.
+
+</details>
+
+<details>
+<summary><b>Python Intern | DevIncept</b></summary>
+
+📅 July 2021 – August 2021
+
+- Developed Python-based applications and explored programming concepts.
+- Worked on practical coding assignments and problem-solving.
+- Strengthened foundational software development skills.
+
+</details>
+
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> Replace the example project names with your actual public repository names and add more project cards if needed.
+
+---
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+I'm always open to connecting with fellow developers, researchers and innovators, exploring ideas, and collaborating on meaningful projects.
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Get_in_Touch-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" alt="Profile Views"/>
+
+<br/><br/>
+
+### ✨ "Innovate. Build. Learn. Repeat."
+
+<sub>Designed with curiosity, powered by code, driven by innovation.</sub>
+
+</div>
