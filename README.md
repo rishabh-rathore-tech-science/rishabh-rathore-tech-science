@@ -1,98 +1,146 @@
-# 🌌 Rishabh Rathore | Concept to Code 🚀
+# 👑 RISHABH RATHORE
+
+### 🚀 CONCEPT TO CODE | PREMIUM DIGITAL PROFILE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A0DAD,100:00D4FF&height=220&section=header&text=Rishabh%20Rathore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20Innovation&descAlignY=58&descSize=18" width="100%" alt="Profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08001F,25:3A0CA3,60:7209B7,100:00D4FF&height=260&section=header&text=RISHABH%20RATHORE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=INNOVATION%20%7C%20TECHNOLOGY%20%7C%20RESEARCH&descAlignY=60&descSize=17" width="100%" alt="Premium galaxy banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Data+Analytics;Student+at+IIT+Patna;Technology+%7C+Research+%7C+Innovation;Exploring+Space+%26+Emerging+Technologies;Ideate.+Design.+Develop." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+SCIENCE+%26+DATA+ANALYTICS;STUDENT+AT+IIT+PATNA;IDEATE.+DESIGN.+DEVELOP.+INNOVATE." alt="Animated introduction"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/iitpatna"><img src="https://img.shields.io/badge/Institute-IIT%20Patna-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="IIT Patna"/></a>
-  <img src="https://img.shields.io/badge/Field-Computer%20Science%20%26%20Data%20Analytics-0077B5?style=for-the-badge&logo=databricks&logoColor=white" alt="Computer Science and Data Analytics"/>
-  <img src="https://img.shields.io/badge/Focus-Technology%20%26%20Research-00A896?style=for-the-badge&logo=atom&logoColor=white" alt="Technology and Research"/>
+  <img src="https://img.shields.io/badge/PROFILE-PREMIUM-9D4EDD?style=for-the-badge&labelColor=10002B" alt="Premium profile"/>
+  <img src="https://img.shields.io/badge/IIT%20PATNA-STUDENT-00B4D8?style=for-the-badge&labelColor=10002B" alt="IIT Patna student"/>
+  <img src="https://img.shields.io/badge/CONCEPT%20TO%20CODE-TECH%20VISIONARY-FF4DAD?style=for-the-badge&labelColor=10002B" alt="Concept to Code"/>
 </p>
 
 ---
 
-## 🪐 About Me
+## 💎 THE DIGITAL DASHBOARD
 
-Rishabh Rathore is a Computer Science and Data Analytics student at **IIT Patna**, passionate about exploring the possibilities of technology, research, and innovation. His interests span software development, data-driven problem-solving, emerging technologies, and space-related research.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-With a concept-to-code mindset, he enjoys transforming ideas into practical solutions, exploring new technical frontiers, and learning through experimentation. His work reflects a curiosity for how technology can support scientific exploration, meaningful innovation, and social impact.
+### 👑 PROFILE IDENTITY
+
+**Rishabh Rathore**
+
+🎓 Computer Science & Data Analytics
+🏛️ Indian Institute of Technology Patna
+💻 Technology & Software Development
+🔬 Research & Scientific Exploration
+🌌 Space Technology & Innovation
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ CORE VISION
+
+**Concept to Code**
+
+Transforming creative ideas into meaningful technological solutions through research, experimentation, and continuous learning.
+
+🧠 Critical Thinking
+🚀 Innovation
+🔭 Exploration
+🌐 Social Impact
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ RESEARCH INTERESTS
+
+* Artificial Intelligence
+* Data Analytics
+* Space Technology
+* Computer Science
+* Scientific Research
+* Emerging Technologies
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 PROFESSIONAL FOCUS
+
+* Technical Development
+* Research Communication
+* Digital Innovation
+* Technology Exploration
+* Community & Welfare Initiatives
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌠 ABOUT ME
+
+I am **Rishabh Rathore**, a Computer Science and Data Analytics student at **IIT Patna**, driven by curiosity, creativity, and a passion for technological advancement. My interests include software development, data-driven problem-solving, space-related research, and emerging technologies.
+
+I believe that every remarkable innovation begins with an idea. Through continuous learning, research, and experimentation, I aim to transform concepts into practical solutions and explore how technology can contribute to scientific progress and meaningful social impact.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDEATE-6A0DAD?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Ideate"/>
-  <img src="https://img.shields.io/badge/DESIGN-0077B5?style=for-the-badge&logo=figma&logoColor=white" alt="Design"/>
-  <img src="https://img.shields.io/badge/DEVELOP-00A896?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Develop"/>
+  <img src="https://img.shields.io/badge/01-IDEATE-7209B7?style=for-the-badge&labelColor=10002B" alt="Ideate"/>
+  <img src="https://img.shields.io/badge/02-DESIGN-4361EE?style=for-the-badge&labelColor=10002B" alt="Design"/>
+  <img src="https://img.shields.io/badge/03-DEVELOP-00B4D8?style=for-the-badge&labelColor=10002B" alt="Develop"/>
+  <img src="https://img.shields.io/badge/04-INNOVATE-FF4DAD?style=for-the-badge&labelColor=10002B" alt="Innovate"/>
 </p>
 
 ---
 
-## 🚀 Areas of Interest
+## 🚀 TECHNOLOGY & SKILLS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-5E60CE?style=flat-square" alt="Computer Science"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-5390D9?style=flat-square" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7400B8?style=flat-square" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Space%20Technology-480CA8?style=flat-square" alt="Space Technology"/>
-  <img src="https://img.shields.io/badge/Research-3A0CA3?style=flat-square" alt="Research"/>
-  <img src="https://img.shields.io/badge/Software%20Development-4361EE?style=flat-square" alt="Software Development"/>
-  <img src="https://img.shields.io/badge/Scientific%20Innovation-00B4D8?style=flat-square" alt="Scientific Innovation"/>
-  <img src="https://img.shields.io/badge/Social%20Impact-2A9D8F?style=flat-square" alt="Social Impact"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode&perline=5" alt="Technology icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-6A0DAD?style=for-the-badge" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-0077B5?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-008B8B?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/RESEARCH-FF6B35?style=for-the-badge" alt="Research"/>
 </p>
 
 ---
 
-## 🛰️ Projects & Innovation
+## 🪐 PROJECTS & INNOVATION
 
-### 🌍 NE-AR — Project Exploration
+### 🌍 NE-AR | Project Exploration
 
-An area of project work focused on exploring technology-driven ideas and practical applications. The project represents an interest in combining creativity, technical learning, and problem-solving.
+An initiative focused on exploring technology-driven ideas and practical applications. This project reflects an interest in creativity, technical experimentation, and innovative problem-solving.
 
-<!-- Replace this section with a verified project description, technology stack, and repository link. -->
-
-<p>
-  <img src="https://img.shields.io/badge/Project-NE--AR-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="NE-AR"/>
-  <img src="https://img.shields.io/badge/Focus-Innovation-0077B5?style=for-the-badge" alt="Innovation"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-NE--AR-7209B7?style=for-the-badge&logo=github&logoColor=white" alt="NE-AR project"/>
+  <img src="https://img.shields.io/badge/FOCUS-INNOVATION-00B4D8?style=for-the-badge" alt="Innovation"/>
 </p>
+
+<!-- Add the verified project description, repository link, and technologies used here. -->
 
 ---
 
-## 🔬 Research & Professional Interests
+## 🔬 RESEARCH & PROFESSIONAL PROFILE
 
-Rishabh is interested in research, technical communication, and the role of information technology in scientific and space-related fields. He is listed on the editorial board page of the International Journal of Space and related research publications.
+An area of interest centered on research, technical communication, information technology, and space-related subjects.
 
 <p align="center">
   <a href="https://www.ijsa-prp.in/editorial-board/mr-rishabh-rathore-it-support-specialist-international-journal-of-space-a">
-    <img src="https://img.shields.io/badge/Editorial%20Board-International%20Journal%20Profile-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial Board Profile"/>
+    <img src="https://img.shields.io/badge/VIEW%20EDITORIAL%20PROFILE-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial profile"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode&perline=5" alt="Technical skills icons"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-Concepts-5E60CE?style=flat-square" alt="Computer Science"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Learning-5390D9?style=flat-square" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Exploration-00A896?style=flat-square" alt="Problem Solving"/>
-</p>
-
-<!-- Edit the skill icons and badges to reflect your current, verified skills and proficiency. -->
-
----
-
-## 🌠 Communities & Exploration
+## 🌌 SCIENCE & TECHNOLOGY CONNECTIONS
 
 <p align="center">
   <a href="https://github.com/iitpatna">
-    <img src="https://img.shields.io/badge/IIT%20Patna-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="IIT Patna"/>
+    <img src="https://img.shields.io/badge/IIT%20PATNA-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="IIT Patna"/>
   </a>
   <a href="https://github.com/isro">
     <img src="https://img.shields.io/badge/ISRO-0B5ED7?style=for-the-badge&logo=github&logoColor=white" alt="ISRO"/>
@@ -101,75 +149,81 @@ Rishabh is interested in research, technical communication, and the role of info
     <img src="https://img.shields.io/badge/IIRS-008B8B?style=for-the-badge&logo=github&logoColor=white" alt="IIRS"/>
   </a>
   <a href="https://github.com/nasa">
-    <img src="https://img.shields.io/badge/NASA-1E3A8A?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA"/>
+    <img src="https://img.shields.io/badge/NASA-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="NASA"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Exploring open-source communities and learning from the wider technology and scientific ecosystem.</i>
+  <i>Exploring the scientific and open-source ecosystem to learn, collaborate, and discover new possibilities.</i>
 </p>
 
 ---
 
-## 📊 GitHub Overview
+## 🌍 SOCIAL IMPACT & COMMUNITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=BB86FC&text_color=FFFFFF" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="170" alt="Most used languages"/>
+  <a href="https://github.com/RRwelfarework">
+    <img src="https://img.shields.io/badge/COMMUNITY%20INITIATIVES-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Community initiatives"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=BB86FC&currStreakLabel=00D4FF" width="70%" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D4FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
-</p>
+Technology can be a powerful tool for positive change. I am interested in initiatives that connect innovation, collaboration, and community-oriented work.
 
 ---
 
-## 🌐 Connect & Explore
+## 💠 CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:rishabh_2312res940@iitp.ac.in">
-    <img src="https://img.shields.io/badge/Academic%20Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email"/>
+    <img src="https://img.shields.io/badge/ACADEMIC%20EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic email"/>
   </a>
   <a href="https://sites.google.com/view/mr-rishabh-rathore/bio">
-    <img src="https://img.shields.io/badge/Personal%20Website-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rishabh-rathore-%F0%9F%87%AE%F0%9F%87%B3-0102a2344/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/RISHABHRATECH2">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.ijsa-prp.in/editorial-board/mr-rishabh-rathore-it-support-specialist-international-journal-of-space-a">
-    <img src="https://img.shields.io/badge/Editorial%20Profile-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial Profile"/>
+    <img src="https://img.shields.io/badge/EDITORIAL%20PROFILE-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial profile"/>
   </a>
   <a href="https://github.com/RRwelfarework">
-    <img src="https://img.shields.io/badge/Welfare%20Work-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Welfare Work"/>
+    <img src="https://img.shields.io/badge/WELFARE%20WORK-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Welfare work"/>
   </a>
+</p>
+
+<p align="center">
+  <i>For academic, research, technical, and collaborative conversations, feel free to connect.</i>
 </p>
 
 ---
 
-## ✨ Vision
+## ✨ THE VISION
 
 <p align="center">
-  <i>“Great innovations begin with a curious mind, grow through research, and become reality through consistent effort.”</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Think+Beyond+Boundaries;Explore+The+Unknown;Build+With+Purpose;Turn+Ideas+Into+Impact" alt="Vision animation"/>
 </p>
 
 <p align="center">
-  <b>Ideate. Design. Develop. Innovate.</b>
+  **IDEATE. DESIGN. DEVELOP. INNOVATE.**
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6A0DAD,100:090979&height=120&section=footer" width="100%" alt="Footer banner"/>
+  <i>“The future belongs to those who transform curiosity into discovery and ideas into action.”</i>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🌌</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7209B7,100:08001F&height=140&section=footer" width="100%" alt="Galaxy footer"/>
+</p>
+
+<p align="center">
+  🌌 **Thanks for visiting my digital universe.** 🚀
 </p>
