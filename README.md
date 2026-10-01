@@ -486,3 +486,128 @@ Technology can be a powerful tool for positive change. I am interested in initia
 <p align="center">
   <strong>Thanks for visiting my digital universe.</strong>
 </p>
+
+
+
+
+
+
+
+## PROFESSIONAL PROFILE
+
+### Shri Rishabh Rathore
+
+Shri Rishabh Rathore is a student pursuing a **Bachelor of Science in Computer Science and Data Analytics** in the Department of Computer Science & Engineering at the **Indian Institute of Technology (IIT) Patna**. His journey as an emerging innovator and researcher reflects dedication, perseverance, scientific curiosity, and a strong commitment to **science, technology, research, and innovation**.
+
+### INTERNATIONAL RECOGNITIONS
+
+Through the **NASA Space Apps Challenge**, Shri Rathore has received multiple international recognitions:
+
+- **NASA Galactic Problem Solver — 2024**
+- **NASA Galactic Problem Solver — 2025**
+- **NASA Space Apps Global Nominee — 2024**
+- **NASA Space Apps Global Nominee — 2025**
+- **People's Choice — 2024**
+- **1st Place — University of Georgia Space Apps Challenge, Athens, Georgia — 2025**
+
+### NE-AR | NATURALISTS EXPLORER – AUGMENTED REALITY
+
+During the NASA Space Apps Challenge, Shri Rathore, together with his global team, developed **NE-AR (Naturalists Explorer – Augmented Reality)**, an Augmented Reality application focused on addressing climate-change challenges through public awareness and scientific understanding.
+
+The project represents his interest in applying **emerging technologies to environmental challenges, scientific exploration, and global social impact**.
+
+His work submitted for the **Uttar Pradesh Gaurav Samman** further reflects his engagement with **Space Science and Technology research**.
+
+### TECHNICAL EXPERTISE
+
+His technical interests and skills include:
+
+`Python` `C++` `Java` `HTML` `CSS` `JavaScript`  
+`Machine Learning` `Data Analytics` `Web Development`  
+`App Development` `Robotics` `Cyber Security` `Cloud Computing`
+
+### ACADEMIC & TECHNICAL LEARNING
+
+He has undertaken academic and technical learning through reputed institutions and programmes associated with:
+
+- **ISRO–IIRS**
+- **IIT Kanpur**
+- **NIT Rourkela**
+- **NIT Tiruchirappalli**
+- **MNNIT Allahabad**
+- **IIIT Allahabad**
+
+His learning and exploration have covered areas including:
+
+**Geodata Processing · Deep Learning · Cyber Security · Biomedical Imaging · Machine Learning · Robotic Systems · Bioengineering**
+
+### ISRO RESEARCH EXPERIENCE
+
+Shri Rathore served as a:
+
+**Science/Engineering Research Intern**  
+**ISRO–Indian Institute of Remote Sensing (ISRO-IIRS), Dehradun**  
+**May 2025 – May 2026**
+
+This experience represents an important part of his scientific and technical journey, particularly in the field of **remote sensing, research, and space-related technology**.
+
+### PROFESSIONAL EXPERIENCE
+
+His professional and technical experience includes:
+
+- **HCL-GUVI Full Stack Development Programme**
+- **Frontend Development — Prodesk IT & Engineering Services**
+- **Assistant Sales Consultant — Paisabazaar**
+- Participation in **IEEE Distinguished Lectures**
+  - *Deep Learning in FPGA*
+  - *Memory Interface: Past, Present and Future*
+
+### NATIONAL RECOGNITION
+
+At the national level, Shri Rathore has participated in the **National Space Day Quiz** and received an appreciation certificate associated with **ISRO and MyGov**, presented by the **Secretary, Department of Space and Chairman, ISRO, Dr. V. N. Narayanan**.
+
+### SOCIAL & ENVIRONMENTAL ENGAGEMENT
+
+Beyond academics and technology, his interests extend to:
+
+- **Environmental Sustainability**
+- **Social Responsibility**
+- **Mission LiFE**
+- **Swachh Bharat Mission**
+- **Fit India Movement**
+- **Science & Technology Awareness**
+
+### SCIENCE, TECHNOLOGY & INNOVATION
+
+His profile represents an intersection of:
+
+**Computer Science · Data Analytics · Artificial Intelligence · Research · Space Technology · Remote Sensing · Innovation · Environmental Awareness**
+
+His association with and recognition through platforms and organisations such as **IIT Patna, ISRO, NASA, IEEE, and MyGov**, together with his participation in international, national, and state-level initiatives, reflects his ongoing journey toward building a meaningful career in **science, technology, research, and innovation**.
+
+---
+
+<p align="center">
+  <strong>IDEATE. DESIGN. DEVELOP. INNOVATE.</strong>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
