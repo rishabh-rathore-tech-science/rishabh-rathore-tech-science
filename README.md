@@ -1,221 +1,175 @@
+# 🌌 Rishabh Rathore | Concept to Code 🚀
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--       RISHABH RATHORE | COSMIC PORTFOLIO        -->
-<!-- ═══════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A0DAD,100:00D4FF&height=220&section=header&text=Rishabh%20Rathore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20Innovation&descAlignY=58&descSize=18" width="100%" alt="Profile banner"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Data+Analytics;Student+at+IIT+Patna;Technology+%7C+Research+%7C+Innovation;Exploring+Space+%26+Emerging+Technologies;Ideate.+Design.+Develop." alt="Typing SVG"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090040,20:4B0082,45:7B2FF7,70:00C6FF,100:090040&height=250&section=header&text=RISHABH%20RATHORE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SCIENCE%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20INNOVATION&descSize=17&descAlignY=59&descColor=E0E7FF" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=850&height=50&lines=SPACE+SCIENCE+%26+TECHNOLOGY;NASA+SPACE+APPS+CHALLENGE+AWARDEE;ISRO-IIRS+RESEARCH+INTERN;ARTIFICIAL+INTELLIGENCE+%7C+DATA+SCIENCE;INNOVATING+BEYOND+BOUNDARIES" alt="Animated titles"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎓_IIT_PATNA-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_SPACE_TECHNOLOGY-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_ARTIFICIAL_INTELLIGENCE-DB2777?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:EC4899&height=4" width="80%"/>
-
-### ✦ EXPLORING THE UNIVERSE THROUGH INNOVATION ✦
-
-**B.Sc. Computer Science & Data Analytics | IIT Patna**
-
-📍 Kanpur, Uttar Pradesh, India
-
-</div>
+<p align="center">
+  <a href="https://github.com/iitpatna"><img src="https://img.shields.io/badge/Institute-IIT%20Patna-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="IIT Patna"/></a>
+  <img src="https://img.shields.io/badge/Field-Computer%20Science%20%26%20Data%20Analytics-0077B5?style=for-the-badge&logo=databricks&logoColor=white" alt="Computer Science and Data Analytics"/>
+  <img src="https://img.shields.io/badge/Focus-Technology%20%26%20Research-00A896?style=for-the-badge&logo=atom&logoColor=white" alt="Technology and Research"/>
+</p>
 
 ---
 
-<div align="center">
+## 🪐 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=✦%20THE%20INNOVATOR%20✦&fontSize=27&height=65&fontAlignY=55"/>
+Rishabh Rathore is a Computer Science and Data Analytics student at **IIT Patna**, passionate about exploring the possibilities of technology, research, and innovation. His interests span software development, data-driven problem-solving, emerging technologies, and space-related research.
 
-</div>
+With a concept-to-code mindset, he enjoys transforming ideas into practical solutions, exploring new technical frontiers, and learning through experimentation. His work reflects a curiosity for how technology can support scientific exploration, meaningful innovation, and social impact.
 
-Rishabh Rathore is an emerging innovator, researcher and technology enthusiast from Kanpur, Uttar Pradesh, pursuing a Bachelor of Science in Computer Science and Data Analytics in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Patna. Driven by scientific curiosity, perseverance and a passion for discovery, he explores the frontiers of Artificial Intelligence, Data Science, Space Technology and interdisciplinary research. His journey reflects a dedication to transforming ideas into meaningful solutions, combining analytical thinking, technological creativity and scientific exploration to address real-world challenges. With a vision to contribute to India's scientific and technological advancement, he continues to expand his expertise and explore the potential of emerging technologies for global impact.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:06B6D4,100:EC4899&height=3" width="65%"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/IDEATE-6A0DAD?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Ideate"/>
+  <img src="https://img.shields.io/badge/DESIGN-0077B5?style=for-the-badge&logo=figma&logoColor=white" alt="Design"/>
+  <img src="https://img.shields.io/badge/DEVELOP-00A896?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Develop"/>
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Areas of Interest
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F59E0B&text=🏆%20GLOBAL%20ACHIEVEMENTS%20🏆&fontSize=25&height=65&fontAlignY=55"/>
-
-<img src="https://img.shields.io/badge/NASA-GALACTIC_PROBLEM_SOLVER_2024-1E3A8A?style=for-the-badge&logo=nasa&logoColor=white"/>
-<img src="https://img.shields.io/badge/NASA-GALACTIC_PROBLEM_SOLVER_2025-312E81?style=for-the-badge&logo=nasa&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NASA-GLOBAL_NOMINEE_2024-0369A1?style=for-the-badge&logo=nasa&logoColor=white"/>
-<img src="https://img.shields.io/badge/NASA-GLOBAL_NOMINEE_2025-4F46E5?style=for-the-badge&logo=nasa&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PEOPLE'S_CHOICE-2024-DB2777?style=for-the-badge&logo=starship&logoColor=white"/>
-<img src="https://img.shields.io/badge/1ST_PLACE-UGA_SPACE_APPS_2025-15803D?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:EC4899,100:8B5CF6&height=3" width="70%"/>
-
-</div>
-
-Rishabh has earned international recognition through the NASA Space Apps Challenge, including NASA Galactic Problem Solver and NASA Space Apps Global Nominee distinctions in 2024 and 2025, alongside People's Choice recognition in 2024. In 2025, he also achieved first place at the University of Georgia Space Apps Challenge in Athens, Georgia. These recognitions reflect his participation in international collaborative innovation, creative problem-solving and the development of technological approaches to scientific and environmental challenges.
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-5E60CE?style=flat-square" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-5390D9?style=flat-square" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7400B8?style=flat-square" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Space%20Technology-480CA8?style=flat-square" alt="Space Technology"/>
+  <img src="https://img.shields.io/badge/Research-3A0CA3?style=flat-square" alt="Research"/>
+  <img src="https://img.shields.io/badge/Software%20Development-4361EE?style=flat-square" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/Scientific%20Innovation-00B4D8?style=flat-square" alt="Scientific Innovation"/>
+  <img src="https://img.shields.io/badge/Social%20Impact-2A9D8F?style=flat-square" alt="Social Impact"/>
+</p>
 
 ---
 
-<div align="center">
+## 🛰️ Projects & Innovation
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=06B6D4&text=🚀%20COSMIC%20INNOVATION%20🚀&fontSize=26&height=65&fontAlignY=55"/>
+### 🌍 NE-AR — Project Exploration
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=NE-AR;NATURALISTS+EXPLORER;AUGMENTED+REALITY+FOR+EARTH" alt="NE-AR animated title"/>
+An area of project work focused on exploring technology-driven ideas and practical applications. The project represents an interest in combining creativity, technical learning, and problem-solving.
 
-<img src="assets/near-project.png" width="90%" alt="NE-AR project showcase"/>
+<!-- Replace this section with a verified project description, technology stack, and repository link. -->
 
-### 🌎 Naturalists Explorer – Augmented Reality
-
-<img src="https://img.shields.io/badge/TECHNOLOGY-Augmented_Reality-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-Climate_Action-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/DOMAIN-Environmental_Science-0891B2?style=flat-square"/>
-
-</div>
-
-During the NASA Space Apps Challenge, Rishabh Rathore and his global team developed **NE-AR (Naturalists Explorer – Augmented Reality)**, an innovative Augmented Reality application aimed at addressing climate-change challenges by promoting environmental awareness and scientific understanding. The project explores how immersive digital experiences can help people engage with environmental knowledge, understand climate-related issues and develop a greater appreciation for the natural world. By combining emerging technologies with environmental education, NE-AR represents an effort to create meaningful global social and environmental impact.
+<p>
+  <img src="https://img.shields.io/badge/Project-NE--AR-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="NE-AR"/>
+  <img src="https://img.shields.io/badge/Focus-Innovation-0077B5?style=for-the-badge" alt="Innovation"/>
+</p>
 
 ---
 
-<div align="center">
+## 🔬 Research & Professional Interests
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=🛰️%20RESEARCH%20UNIVERSE%20🛰️&fontSize=25&height=65&fontAlignY=55"/>
+Rishabh is interested in research, technical communication, and the role of information technology in scientific and space-related fields. He is listed on the editorial board page of the International Journal of Space and related research publications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6366F1,100:EC4899&height=3" width="65%"/>
-
-</div>
-
-Rishabh served as a **Science and Engineering Research Intern at ISRO–Indian Institute of Remote Sensing (ISRO-IIRS), Dehradun, from May 2025 to May 2026**, gaining exposure to scientific research and space-related technologies. His professional journey also includes frontend development experience with Prodesk IT & Engineering Services, completion of the HCL-GUVI Full Stack Development Programme and professional experience as an Assistant Sales Consultant at Paisabazaar. These experiences have contributed to his development in technical problem-solving, software engineering, communication and professional collaboration.
-
-His academic and technical learning includes programmes and opportunities associated with **ISRO-IIRS, IIT Kanpur, NIT Rourkela, NIT Tiruchirappalli, MNNIT Allahabad and IIIT Allahabad**, across fields such as geodata processing, deep learning, cyber security, biomedical imaging, machine learning, robotic systems and bioengineering. This interdisciplinary exposure has helped him explore the connections between computer science, engineering, scientific research and emerging technological applications.
+<p align="center">
+  <a href="https://www.ijsa-prp.in/editorial-board/mr-rishabh-rathore-it-support-specialist-international-journal-of-space-a">
+    <img src="https://img.shields.io/badge/Editorial%20Board-International%20Journal%20Profile-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial Board Profile"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Technical Skills
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=EC4899&text=⚡%20TECHNOLOGICAL%20DIMENSIONS%20⚡&fontSize=23&height=65&fontAlignY=55"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode&perline=5" alt="Technical skills icons"/>
+</p>
 
-### 💻 Programming & Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-Concepts-5E60CE?style=flat-square" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Learning-5390D9?style=flat-square" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Exploration-00A896?style=flat-square" alt="Problem Solving"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,git,github,vscode,linux&theme=dark" alt="Programming skills"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEEP_LEARNING-DB2777?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ROBOTICS-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/CYBER_SECURITY-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/CLOUD_COMPUTING-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/WEB_&_APP_DEVELOPMENT-9333EA?style=flat-square"/>
-
-</div>
-
-Rishabh has continuously developed technical expertise in Python, C++, Java, HTML, CSS and JavaScript, alongside interests in Machine Learning, Data Analytics, Web and App Development, Robotics, Cyber Security and Cloud Computing. His technical interests span intelligent systems, computational research, software development and data-driven solutions, with a focus on applying emerging technologies to complex challenges in science, engineering and society.
+<!-- Edit the skill icons and badges to reflect your current, verified skills and proficiency. -->
 
 ---
 
-<div align="center">
+## 🌠 Communities & Exploration
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F472B6&text=🌌%20NATIONAL%20RECOGNITION%20🌌&fontSize=24&height=65&fontAlignY=55"/>
+<p align="center">
+  <a href="https://github.com/iitpatna">
+    <img src="https://img.shields.io/badge/IIT%20Patna-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="IIT Patna"/>
+  </a>
+  <a href="https://github.com/isro">
+    <img src="https://img.shields.io/badge/ISRO-0B5ED7?style=for-the-badge&logo=github&logoColor=white" alt="ISRO"/>
+  </a>
+  <a href="https://github.com/IIRS">
+    <img src="https://img.shields.io/badge/IIRS-008B8B?style=for-the-badge&logo=github&logoColor=white" alt="IIRS"/>
+  </a>
+  <a href="https://github.com/nasa">
+    <img src="https://img.shields.io/badge/NASA-1E3A8A?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA"/>
+  </a>
+</p>
 
-</div>
-
-At the national level, Rishabh received an appreciation certificate associated with **ISRO and MyGov** for participation and performance in the National Space Day Quiz, presented by **Dr. V. N. Narayanan, Secretary, Department of Space and Chairman, ISRO**. He has also participated in IEEE Distinguished Lectures, including *Deep Learning in FPGA* and *Memory Interface: Past, Present and Future*, reflecting his continued interest in emerging research and engineering concepts. Beyond technology, he has demonstrated an interest in environmental sustainability, social responsibility and national initiatives, including Mission LiFE, Swachh Bharat Mission and Fit India Movement.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=📊%20GITHUB%20GALAXY%20📊&fontSize=25&height=65&fontAlignY=55"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=C084FC&text_color=E2E8F0&icon_color=38BDF8&ring_color=EC4899"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0B1020&ring=EC4899&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B1020&color=C084FC&line=38BDF8&point=F472B6&area=true&hide_border=true&custom_title=My%20Coding%20Universe" width="100%" alt="Contribution activity"/>
-
-</div>
+<p align="center">
+  <i>Exploring open-source communities and learning from the wider technology and scientific ecosystem.</i>
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Overview
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=✨%20VISION%20BEYOND%20THE%20STARS%20✨&fontSize=24&height=65&fontAlignY=55"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=BB86FC&text_color=FFFFFF" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="170" alt="Most used languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=BB86FC&currStreakLabel=00D4FF" width="70%" alt="GitHub contribution streak"/>
+</p>
 
-Rishabh aspires to contribute to the advancement of science, technology, research and innovation by exploring emerging scientific frontiers and developing solutions with meaningful societal impact. His journey represents a commitment to continuous learning, interdisciplinary collaboration, environmental sustainability and technological progress. Through his academic and research associations with institutions and platforms such as IIT Patna, ISRO, NASA, IEEE and MyGov, he aims to strengthen his scientific capabilities and contribute to India's research, innovation and technology ecosystem.
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=750&height=50&lines=UTTAR+PRADESH+GAURAV+SAMMAN+2027;SCIENCE+%E2%80%A2+TECHNOLOGY+%E2%80%A2+RESEARCH;INNOVATION+FOR+A+BETTER+TOMORROW" alt="Vision"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D4FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect & Explore
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C084FC&text=🌠%20CONNECT%20WITH%20ME%20🌠&fontSize=25&height=65&fontAlignY=55"/>
+<p align="center">
+  <a href="mailto:rishabh_2312res940@iitp.ac.in">
+    <img src="https://img.shields.io/badge/Academic%20Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email"/>
+  </a>
+  <a href="https://sites.google.com/view/mr-rishabh-rathore/bio">
+    <img src="https://img.shields.io/badge/Personal%20Website-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishabh-rathore-%F0%9F%87%AE%F0%9F%87%B3-0102a2344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/RISHABHRATECH2">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-Rishabh welcomes meaningful connections with researchers, scientists, developers, innovators and technology enthusiasts interested in emerging technologies, research collaborations and sustainable innovation.
+<p align="center">
+  <a href="https://www.ijsa-prp.in/editorial-board/mr-rishabh-rathore-it-support-specialist-international-journal-of-space-a">
+    <img src="https://img.shields.io/badge/Editorial%20Profile-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial Profile"/>
+  </a>
+  <a href="https://github.com/RRwelfarework">
+    <img src="https://img.shields.io/badge/Welfare%20Work-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Welfare Work"/>
+  </a>
+</p>
 
-<br/><br/>
+---
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## ✨ Vision
 
-<br/><br/>
+<p align="center">
+  <i>“Great innovations begin with a curious mind, grow through research, and become reality through consistent effort.”</i>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=COSMIC_VISITORS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+<p align="center">
+  <b>Ideate. Design. Develop. Innovate.</b>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6A0DAD,100:090979&height=120&section=footer" width="100%" alt="Footer banner"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090040,25:4B0082,50:7B2FF7,75:00C6FF,100:090040&height=180&section=footer&text=BEYOND%20THE%20STARS&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-**RISHABH RATHORE**
-
-*IIT Patna · Kanpur, Uttar Pradesh, India*
-
-**✦ DREAM · DISCOVER · INNOVATE · INSPIRE ✦**
-
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile! 🌌</i>
+</p>
