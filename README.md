@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**rishabh-rathore-tech-science/rishabh-rathore-tech-science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mr. Rishabh Rathore is a student of Bachelor of Science in Computer Science and Data Analytics in the Department of Computer Science & Engineering at the Indian Institute of Technology (IIT) Patna. His journey as an emerging innovator and researcher reflects dedication, perseverance, scientific curiosity and a strong commitment towards the fields of science, technology, research and innovation.
+He has received several international recognitions through the NASA Space Apps Challenge, including NASA Galactic Problem Solver, NASA Space Apps Global Nominee, and People’s Choice recognition. His achievements include:
+NASA Galactic Problem Solver 
+NASA Space Apps Global Nominee
+People’s Choice 
+1st Place – University of Georgia Space Apps Challenge, Athens, Georgia – 2025
+During the NASA Space Apps Challenge, Shri Rathore, together with his global team, developed “NE-AR” (Naturalists Explorer – Augmented Reality), an Augmented Reality application aimed at addressing climate-change challenges by promoting public awareness and scientific understanding. His work reflects an effort to use emerging technologies for environmental and global social impact. The application submitted for the Uttar Pradesh Gaurav Samman also highlights his active engagement with Space Science and Technology research.
+Shri Rathore has continuously developed technical expertise in Python, C++, Java, HTML, CSS, JavaScript, Machine Learning, Data Analytics, Web and App Development, Robotics, Cyber Security and Cloud Computing. He has also undertaken academic and technical learning through reputed institutions, including ISRO–IIRS, IIT Kanpur, NIT Rourkela, NIT Tiruchirappalli, MNNIT and IIIT, in areas such as geodata processing, deep learning, cyber security, biomedical imaging, machine learning, robotic systems and bioengineering.
+Of particular relevance to his scientific journey, Shri Rathore served as a Science/Engineering Research Intern at ISRO–Indian Institute of Remote Sensing (ISRO-IIRS), Dehradun, from May 2025 to May 2026. His professional experience also includes completion of the HCL-GUVI Full Stack Development Programme, frontend development experience with Prodesk IT & Engineering Services, and professional experience as an Assistant Sales Consultant at Paisabazaar. He has additionally participated in IEEE Distinguished Lectures, including “Deep Learning in FPGA” and “Memory Interface: Past, Present and Future.”
+At the national level, Shri Rathore has also been recognised for his participation and performance in the National Space Day Quiz, receiving an appreciation certificate associated with ISRO and MyGov, presented by the Secretary, Department of Space and Chairman, ISRO, Dr. V. N. Narayanan.
+Beyond academics and technology, Shri Rathore has demonstrated an interest in environmental sustainability, social responsibility and national initiatives, including Mission LiFE, Swachh Bharat Mission and Fit India Movement. His profile reflects an intersection of technical learning, research, innovation, environmental awareness and service-oriented values.
+His association with and recognition through organisations and platforms such as IIT Patna, ISRO, NASA, IEEE and MyGov, striving to build a meaningful career in science, technology and innovation.
