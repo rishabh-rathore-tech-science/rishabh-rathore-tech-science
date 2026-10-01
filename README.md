@@ -1,76 +1,325 @@
+# 👑 RISHABH RATHORE
+
+### 🚀 CONCEPT TO CODE | PREMIUM DIGITAL PROFILE
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08001F,25:3A0CA3,60:7209B7,100:00D4FF&height=260&section=header&text=RISHABH%20RATHORE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=INNOVATION%20%7C%20TECHNOLOGY%20%7C%20RESEARCH&descAlignY=60&descSize=17" width="100%" alt="Premium galaxy banner"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=WELCOME+TO+MY+DIGITAL+UNIVERSE;COMPUTER+SCIENCE+%26+DATA+ANALYTICS;STUDENT+AT+IIT+PATNA;IDEATE.+DESIGN.+DEVELOP.+INNOVATE." alt="Animated introduction"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-PREMIUM-9D4EDD?style=for-the-badge&labelColor=10002B" alt="Premium profile"/>
+  <img src="https://img.shields.io/badge/IIT%20PATNA-STUDENT-00B4D8?style=for-the-badge&labelColor=10002B" alt="IIT Patna student"/>
+  <img src="https://img.shields.io/badge/CONCEPT%20TO%20CODE-TECH%20VISIONARY-FF4DAD?style=for-the-badge&labelColor=10002B" alt="Concept to Code"/>
+</p>
+
+---
+
+## 💎 THE DIGITAL DASHBOARD
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👑 PROFILE IDENTITY
+
+**Rishabh Rathore**
+
+🎓 Computer Science & Data Analytics
+🏛️ Indian Institute of Technology Patna
+💻 Technology & Software Development
+🔬 Research & Scientific Exploration
+🌌 Space Technology & Innovation
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ CORE VISION
+
+**Concept to Code**
+
+Transforming creative ideas into meaningful technological solutions through research, experimentation, and continuous learning.
+
+🧠 Critical Thinking
+🚀 Innovation
+🔭 Exploration
+🌐 Social Impact
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ RESEARCH INTERESTS
+
+* Artificial Intelligence
+* Data Analytics
+* Space Technology
+* Computer Science
+* Scientific Research
+* Emerging Technologies
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 PROFESSIONAL FOCUS
+
+* Technical Development
+* Research Communication
+* Digital Innovation
+* Technology Exploration
+* Community & Welfare Initiatives
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌠 ABOUT ME
+
+I am **Rishabh Rathore**, a Computer Science and Data Analytics student at **IIT Patna**, driven by curiosity, creativity, and a passion for technological advancement. My interests include software development, data-driven problem-solving, space-related research, and emerging technologies.
+
+I believe that every remarkable innovation begins with an idea. Through continuous learning, research, and experimentation, I aim to transform concepts into practical solutions and explore how technology can contribute to scientific progress and meaningful social impact.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-IDEATE-7209B7?style=for-the-badge&labelColor=10002B" alt="Ideate"/>
+  <img src="https://img.shields.io/badge/02-DESIGN-4361EE?style=for-the-badge&labelColor=10002B" alt="Design"/>
+  <img src="https://img.shields.io/badge/03-DEVELOP-00B4D8?style=for-the-badge&labelColor=10002B" alt="Develop"/>
+  <img src="https://img.shields.io/badge/04-INNOVATE-FF4DAD?style=for-the-badge&labelColor=10002B" alt="Innovate"/>
+</p>
+
+---
+
+## 🚀 TECHNOLOGY & SKILLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode&perline=5" alt="Technology icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-6A0DAD?style=for-the-badge" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-0077B5?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-008B8B?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/RESEARCH-FF6B35?style=for-the-badge" alt="Research"/>
+</p>
+
+---
+
+## 🪐 PROJECTS & INNOVATION
+
+### 🌍 NE-AR | Project Exploration
+
+An initiative focused on exploring technology-driven ideas and practical applications. This project reflects an interest in creativity, technical experimentation, and innovative problem-solving.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-NE--AR-7209B7?style=for-the-badge&logo=github&logoColor=white" alt="NE-AR project"/>
+  <img src="https://img.shields.io/badge/FOCUS-INNOVATION-00B4D8?style=for-the-badge" alt="Innovation"/>
+</p>
+
+<!-- Add the verified project description, repository link, and technologies used here. -->
+
+---
+
+## 🔬 RESEARCH & PROFESSIONAL PROFILE
+
+An area of interest centered on research, technical communication, information technology, and space-related subjects.
+
+<p align="center">
+  <a href="https://www.ijsa-prp.in/editorial-board/mr-rishabh-rathore-it-support-specialist-international-journal-of-space-a">
+    <img src="https://img.shields.io/badge/VIEW%20EDITORIAL%20PROFILE-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial profile"/>
+  </a>
+</p>
+
+---
+
+## 🌌 SCIENCE & TECHNOLOGY CONNECTIONS
+
+<p align="center">
+  <a href="https://github.com/iitpatna">
+    <img src="https://img.shields.io/badge/IIT%20PATNA-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="IIT Patna"/>
+  </a>
+  <a href="https://github.com/isro">
+    <img src="https://img.shields.io/badge/ISRO-0B5ED7?style=for-the-badge&logo=github&logoColor=white" alt="ISRO"/>
+  </a>
+  <a href="https://github.com/IIRS">
+    <img src="https://img.shields.io/badge/IIRS-008B8B?style=for-the-badge&logo=github&logoColor=white" alt="IIRS"/>
+  </a>
+  <a href="https://github.com/nasa">
+    <img src="https://img.shields.io/badge/NASA-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="NASA"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Exploring the scientific and open-source ecosystem to learn, collaborate, and discover new possibilities.</i>
+</p>
+
+---
+
+## 🌍 SOCIAL IMPACT & COMMUNITY
+
+<p align="center">
+  <a href="https://github.com/RRwelfarework">
+    <img src="https://img.shields.io/badge/COMMUNITY%20INITIATIVES-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Community initiatives"/>
+  </a>
+</p>
+
+Technology can be a powerful tool for positive change. I am interested in initiatives that connect innovation, collaboration, and community-oriented work.
+
+---
+
+## 💠 CONNECT WITH ME
+
+<p align="center">
+  <a href="mailto:rishabh_2312res940@iitp.ac.in">
+    <img src="https://img.shields.io/badge/ACADEMIC%20EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic email"/>
+  </a>
+  <a href="https://sites.google.com/view/mr-rishabh-rathore/bio">
+    <img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-rathore-%F0%9F%87%AE%F0%9F%87%B3-0102a2344/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/RISHABHRATECH2">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.ijsa-prp.in/editorial-board/mr-rishabh-rathore-it-support-specialist-international-journal-of-space-a">
+    <img src="https://img.shields.io/badge/EDITORIAL%20PROFILE-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Editorial profile"/>
+  </a>
+  <a href="https://github.com/RRwelfarework">
+    <img src="https://img.shields.io/badge/WELFARE%20WORK-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Welfare work"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>For academic, research, technical, and collaborative conversations, feel free to connect.</i>
+</p>
+
+---
+
+## ✨ THE VISION
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Think+Beyond+Boundaries;Explore+The+Unknown;Build+With+Purpose;Turn+Ideas+Into+Impact" alt="Vision animation"/>
+</p>
+
+<p align="center">
+  **IDEATE. DESIGN. DEVELOP. INNOVATE.**
+</p>
+
+<p align="center">
+  <i>“The future belongs to those who transform curiosity into discovery and ideas into action.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7209B7,100:08001F&height=140&section=footer" width="100%" alt="Galaxy footer"/>
+</p>
+
+<p align="center">
+  🌌 **Thanks for visiting my digital universe.** 🚀
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Rishabh Rathore | IIT Patna × ISRO × NASA</title>
+  <title>Rishabh Rathore | Research • AI • GeoAI • Space</title>
 
   <meta
     name="description"
-    content="Official portfolio of Rishabh Rathore — Computer Science & Data Analytics, IIT Patna | Research Intern at ISRO-IIRS | NASA Space Apps Global Recognition."
+    content="Rishabh Rathore — Computer Science & Data Analytics, IIT Patna | Research Intern at ISRO-IIRS | AI, GeoAI, Earth Observation and Space Technology."
   />
 
   <meta
     name="keywords"
-    content="Rishabh Rathore, IIT Patna, ISRO IIRS, NASA Space Apps, Computer Science, Data Analytics, AI ML, Remote Sensing, Geospatial Intelligence, Space Technology"
+    content="Rishabh Rathore, IIT Patna, ISRO IIRS, NASA Space Apps, Computer Science, Data Analytics, AI, Machine Learning, GeoAI, Remote Sensing, Geospatial Intelligence, Space Technology"
   />
 
   <meta name="author" content="Rishabh Rathore" />
+  <meta name="theme-color" content="#05070d" />
 
-  <!-- =========================
-       FONTS
-  ========================== -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
   <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900&display=swap"
     rel="stylesheet"
   />
 
-  <!-- =========================
-       THREE.JS
-  ========================== -->
-  <script type="importmap">
-  {
-    "imports": {
-      "three": "https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js",
-      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.161.0/examples/jsm/"
-    }
-  }
-  </script>
-
   <style>
-
-    /* =========================================================
-       ROOT
-    ========================================================= */
-
     :root {
-      --bg: #03050d;
-      --bg2: #050816;
-      --panel: rgba(9, 15, 35, 0.64);
+      --bg: #05070d;
+      --bg-soft: #080b13;
+      --panel: rgba(10, 15, 27, 0.72);
+      --panel-strong: rgba(12, 18, 32, 0.92);
+      --line: rgba(255, 255, 255, 0.09);
+      --line-strong: rgba(0, 229, 255, 0.28);
 
-      --cyan: #00eaff;
-      --blue: #4f7cff;
-      --purple: #a855f7;
-      --green: #00ff9d;
-      --orange: #ff9f43;
-      --pink: #ff3cac;
+      --text: #f5f7fb;
+      --muted: #8993a7;
+      --muted-2: #5d6678;
 
-      --text: #f7fbff;
-      --muted: #93a4bd;
-
-      --border: rgba(255,255,255,0.10);
+      --cyan: #00e5ff;
+      --blue: #3d7cff;
+      --purple: #8b5cf6;
+      --green: #00e6a8;
+      --orange: #ff9d3d;
+      --pink: #ff4ecd;
 
       --shadow:
-        0 20px 80px rgba(0,0,0,0.45);
-
-      --glow:
-        0 0 30px rgba(0,234,255,0.20);
+        0 25px 80px rgba(0, 0, 0, 0.45),
+        0 0 80px rgba(0, 229, 255, 0.05);
 
       --radius: 24px;
+      --max: 1240px;
     }
 
     * {
@@ -81,24 +330,27 @@
 
     html {
       scroll-behavior: smooth;
+      scroll-padding-top: 90px;
     }
 
     body {
-      background:
-        radial-gradient(circle at 15% 15%, rgba(0,234,255,.07), transparent 28%),
-        radial-gradient(circle at 85% 20%, rgba(168,85,247,.08), transparent 28%),
-        radial-gradient(circle at 50% 80%, rgba(0,255,157,.04), transparent 30%),
-        var(--bg);
-
+      background: var(--bg);
       color: var(--text);
-      font-family: Inter, sans-serif;
-
+      font-family: "Inter", sans-serif;
       overflow-x: hidden;
+      line-height: 1.6;
+    }
+
+    body.neon-theme {
+      --cyan: #00ffcc;
+      --blue: #00aaff;
+      --purple: #b06cff;
+      --green: #5dff9a;
     }
 
     ::selection {
       background: var(--cyan);
-      color: #000;
+      color: #001016;
     }
 
     a {
@@ -107,199 +359,206 @@
     }
 
     button {
-      font-family: inherit;
+      font: inherit;
     }
 
-    /* =========================================================
-       LOADER
-    ========================================================= */
-
-    #loader {
-      position: fixed;
-      inset: 0;
-      background: #02040a;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 99999;
-      transition: opacity .8s ease, visibility .8s ease;
-    }
-
-    #loader.hide {
-      opacity: 0;
-      visibility: hidden;
-    }
-
-    .loader-inner {
-      width: min(500px, 85%);
-      text-align: center;
-    }
-
-    .loader-logo {
-      font-family: Orbitron, sans-serif;
-      font-size: 2rem;
-      letter-spacing: 5px;
-      margin-bottom: 30px;
-    }
-
-    .loader-logo span {
-      color: var(--cyan);
-    }
-
-    .loader-bar {
-      height: 2px;
-      background: rgba(255,255,255,.08);
-      overflow: hidden;
-      position: relative;
-    }
-
-    .loader-bar::after {
-      content: "";
-      position: absolute;
-      width: 35%;
-      height: 100%;
-      left: -35%;
-      background: linear-gradient(
-        90deg,
-        transparent,
-        var(--cyan),
-        var(--purple),
-        transparent
-      );
-      animation: loader 1.5s infinite;
-    }
-
-    @keyframes loader {
-      to {
-        left: 100%;
-      }
-    }
-
-    .loader-text {
-      color: var(--muted);
-      margin-top: 15px;
-      font-size: .75rem;
-      letter-spacing: 3px;
-      text-transform: uppercase;
+    canvas {
+      display: block;
     }
 
     /* =========================================================
        BACKGROUND
     ========================================================= */
 
-    #stars {
+    .stars {
       position: fixed;
       inset: 0;
       width: 100%;
       height: 100%;
-      z-index: -10;
+      z-index: -8;
       pointer-events: none;
     }
 
-    .grid-background {
+    .grid-bg {
       position: fixed;
       inset: 0;
-      z-index: -9;
+      z-index: -7;
       pointer-events: none;
+      opacity: 0.28;
 
       background-image:
-        linear-gradient(rgba(0,234,255,.025) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0,234,255,.025) 1px, transparent 1px);
+        linear-gradient(rgba(0, 229, 255, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 229, 255, 0.035) 1px, transparent 1px);
 
-      background-size: 60px 60px;
-
-      mask-image: linear-gradient(
-        to bottom,
-        black,
-        transparent 90%
-      );
+      background-size: 70px 70px;
+      mask-image: linear-gradient(to bottom, black, transparent 85%);
     }
 
     .noise {
       position: fixed;
       inset: 0;
-      z-index: 9998;
+      z-index: 50;
       pointer-events: none;
-      opacity: .025;
+      opacity: 0.025;
 
       background-image:
-        url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.4'/%3E%3C/svg%3E");
+        repeating-radial-gradient(
+          circle at 0 0,
+          transparent 0,
+          rgba(255,255,255,.8) 1px,
+          transparent 2px
+        );
+
+      background-size: 6px 6px;
     }
 
     .orb {
       position: fixed;
-      width: 500px;
-      height: 500px;
+      width: 380px;
+      height: 380px;
       border-radius: 50%;
       filter: blur(100px);
-      opacity: .08;
       pointer-events: none;
-      z-index: -8;
+      z-index: -6;
+      opacity: 0.13;
     }
 
     .orb.one {
       background: var(--cyan);
-      top: -250px;
-      left: -200px;
+      top: -180px;
+      left: -100px;
     }
 
     .orb.two {
       background: var(--purple);
-      right: -250px;
-      top: 30%;
+      right: -160px;
+      top: 25%;
     }
 
     .orb.three {
-      background: var(--green);
+      background: var(--blue);
       left: 30%;
-      bottom: -350px;
+      bottom: -260px;
     }
-
-    /* =========================================================
-       CURSOR
-    ========================================================= */
 
     .cursor-glow {
       position: fixed;
-      width: 250px;
-      height: 250px;
+      width: 300px;
+      height: 300px;
       border-radius: 50%;
       pointer-events: none;
-      z-index: 9997;
+      z-index: 1;
 
       background: radial-gradient(
         circle,
-        rgba(0,234,255,.08),
-        transparent 70%
+        rgba(0, 229, 255, 0.09),
+        transparent 68%
       );
 
       transform: translate(-50%, -50%);
+      opacity: 0;
+      transition: opacity 0.3s ease;
     }
 
     /* =========================================================
-       NAVBAR
+       LOADER
+    ========================================================= */
+
+    .loader {
+      position: fixed;
+      inset: 0;
+      background: #020408;
+      z-index: 9999;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      transition:
+        opacity 0.8s ease,
+        visibility 0.8s ease;
+    }
+
+    .loader.hide {
+      opacity: 0;
+      visibility: hidden;
+    }
+
+    .loader-inner {
+      width: min(460px, 85%);
+      text-align: center;
+    }
+
+    .loader-logo {
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(26px, 6vw, 46px);
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      margin-bottom: 24px;
+
+      background: linear-gradient(
+        90deg,
+        var(--cyan),
+        #fff,
+        var(--purple)
+      );
+
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .loader-status {
+      color: var(--muted);
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .loader-bar {
+      height: 3px;
+      background: rgba(255,255,255,.08);
+      overflow: hidden;
+    }
+
+    .loader-progress {
+      width: 0%;
+      height: 100%;
+      background: linear-gradient(90deg, var(--cyan), var(--purple));
+      box-shadow: 0 0 20px var(--cyan);
+      transition: width 0.1s linear;
+    }
+
+    /* =========================================================
+       NAVIGATION
     ========================================================= */
 
     .navbar {
       position: fixed;
       top: 0;
       left: 0;
-      width: 100%;
-      z-index: 5000;
+      right: 0;
 
-      padding: 18px 5%;
-      transition: .4s;
+      z-index: 100;
+
+      padding: 18px 22px;
+
+      transition:
+        background 0.35s ease,
+        border-color 0.35s ease,
+        backdrop-filter 0.35s ease;
     }
 
     .navbar.scrolled {
-      padding: 12px 5%;
-      background: rgba(3,5,13,.75);
-      backdrop-filter: blur(20px);
-      border-bottom: 1px solid var(--border);
+      background: rgba(4, 7, 13, 0.82);
+      backdrop-filter: blur(22px);
+      border-bottom: 1px solid var(--line);
     }
 
-    .nav-inner {
-      max-width: 1400px;
+    .nav-container {
+      width: min(var(--max), 100%);
       margin: auto;
 
       display: flex;
@@ -311,32 +570,34 @@
       display: flex;
       align-items: center;
       gap: 12px;
-
-      font-family: Orbitron, sans-serif;
-      font-weight: 800;
-      letter-spacing: 2px;
     }
 
     .brand-mark {
       width: 40px;
       height: 40px;
 
-      border: 1px solid rgba(0,234,255,.5);
-      border-radius: 12px;
-
       display: grid;
       place-items: center;
 
+      border: 1px solid rgba(0,229,255,.4);
+      background: rgba(0,229,255,.05);
+
+      font-family: "Orbitron", sans-serif;
+      font-size: 13px;
+      font-weight: 800;
+
       color: var(--cyan);
 
-      background:
-        linear-gradient(
-          135deg,
-          rgba(0,234,255,.15),
-          rgba(168,85,247,.12)
-        );
+      box-shadow:
+        inset 0 0 25px rgba(0,229,255,.05),
+        0 0 25px rgba(0,229,255,.05);
+    }
 
-      box-shadow: var(--glow);
+    .brand-text {
+      font-family: "Orbitron", sans-serif;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      font-size: 14px;
     }
 
     .brand-text span {
@@ -346,54 +607,95 @@
     .nav-links {
       display: flex;
       align-items: center;
-      gap: 28px;
+      gap: 5px;
     }
 
     .nav-links a {
-      color: #aebdd0;
-      font-size: .78rem;
-      font-weight: 600;
-      letter-spacing: 1px;
-      text-transform: uppercase;
       position: relative;
+      padding: 9px 12px;
+
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 600;
+
+      transition: color .25s ease;
     }
 
     .nav-links a::after {
       content: "";
       position: absolute;
-      bottom: -7px;
-      left: 0;
-      width: 0;
+      left: 12px;
+      right: 12px;
+      bottom: 3px;
+
       height: 1px;
       background: var(--cyan);
-      transition: .3s;
+
+      transform: scaleX(0);
+      transform-origin: center;
+
+      transition: transform .25s ease;
     }
 
-    .nav-links a:hover {
-      color: white;
+    .nav-links a:hover,
+    .nav-links a.active {
+      color: var(--text);
     }
 
-    .nav-links a:hover::after {
-      width: 100%;
+    .nav-links a:hover::after,
+    .nav-links a.active::after {
+      transform: scaleX(1);
     }
 
     .nav-cta {
-      padding: 11px 18px;
-      border: 1px solid rgba(0,234,255,.35);
-      border-radius: 999px;
-      color: var(--cyan) !important;
-      background: rgba(0,234,255,.04);
+      border: 1px solid rgba(0,229,255,.3) !important;
+      background: rgba(0,229,255,.05);
     }
 
-    .menu-btn {
-      display: none;
-      width: 42px;
-      height: 42px;
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      background: rgba(255,255,255,.04);
-      color: white;
+    .theme-toggle,
+    .mobile-toggle {
+      width: 40px;
+      height: 40px;
+
+      display: grid;
+      place-items: center;
+
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.03);
+      color: var(--text);
+
       cursor: pointer;
+
+      transition: .25s ease;
+    }
+
+    .theme-toggle:hover,
+    .mobile-toggle:hover {
+      border-color: var(--cyan);
+      color: var(--cyan);
+    }
+
+    .theme-symbol {
+      width: 13px;
+      height: 13px;
+      border: 1px solid currentColor;
+      border-radius: 50%;
+      position: relative;
+    }
+
+    .theme-symbol::after {
+      content: "";
+      position: absolute;
+      width: 6px;
+      height: 6px;
+      background: var(--bg);
+      border-radius: 50%;
+      right: -2px;
+      top: -2px;
+    }
+
+    .mobile-toggle {
+      display: none;
     }
 
     /* =========================================================
@@ -401,77 +703,69 @@
     ========================================================= */
 
     .container {
-      width: min(1400px, 90%);
+      width: min(var(--max), calc(100% - 40px));
       margin: auto;
     }
 
     section {
-      padding: 120px 0;
       position: relative;
+      padding: 120px 0;
     }
 
-    .section-tag {
+    .section-label {
       display: inline-flex;
       align-items: center;
       gap: 9px;
 
-      padding: 7px 12px;
-
-      border: 1px solid rgba(0,234,255,.18);
-      border-radius: 999px;
-
-      background: rgba(0,234,255,.035);
-
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .2em;
       color: var(--cyan);
 
-      font-family: Orbitron, sans-serif;
-      font-size: .65rem;
-      letter-spacing: 2px;
-      text-transform: uppercase;
+      margin-bottom: 18px;
     }
 
-    .section-tag::before {
+    .section-label::before {
       content: "";
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
-      background: var(--green);
-      box-shadow: 0 0 12px var(--green);
+      width: 25px;
+      height: 1px;
+      background: var(--cyan);
+      box-shadow: 0 0 10px var(--cyan);
     }
 
     .section-title {
-      font-family: Orbitron, sans-serif;
-      font-size: clamp(2rem, 4vw, 4rem);
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(30px, 5vw, 58px);
       line-height: 1.05;
-      margin-top: 18px;
-      letter-spacing: -1px;
-    }
-
-    .section-title span {
-      color: var(--cyan);
+      letter-spacing: -.04em;
+      margin-bottom: 20px;
     }
 
     .section-description {
-      max-width: 720px;
       color: var(--muted);
-      line-height: 1.8;
-      margin-top: 20px;
-      font-size: 1rem;
+      max-width: 680px;
+      font-size: 15px;
+    }
+
+    .gradient-text {
+      background: linear-gradient(
+        90deg,
+        var(--cyan),
+        var(--blue),
+        var(--purple)
+      );
+
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
     }
 
     .glass {
-      background:
-        linear-gradient(
-          145deg,
-          rgba(255,255,255,.055),
-          rgba(255,255,255,.018)
-        );
-
-      border: 1px solid var(--border);
+      background: var(--panel);
+      border: 1px solid var(--line);
       box-shadow: var(--shadow);
-
-      backdrop-filter: blur(18px);
-      -webkit-backdrop-filter: blur(18px);
+      backdrop-filter: blur(20px);
     }
 
     /* =========================================================
@@ -483,83 +777,92 @@
       display: flex;
       align-items: center;
 
-      padding-top: 130px;
+      padding-top: 140px;
       overflow: hidden;
     }
 
-    .hero-grid {
+    .hero-layout {
       display: grid;
       grid-template-columns: 1.05fr .95fr;
+      gap: 70px;
       align-items: center;
-      gap: 40px;
     }
 
-    .eyebrow {
-      display: flex;
+    .system-status {
+      display: inline-flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
 
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
+      letter-spacing: .16em;
       color: var(--green);
 
-      font-family: Orbitron, sans-serif;
-      font-size: .72rem;
-      letter-spacing: 2px;
-      text-transform: uppercase;
+      margin-bottom: 25px;
     }
 
     .status-dot {
-      width: 8px;
-      height: 8px;
+      width: 7px;
+      height: 7px;
       border-radius: 50%;
       background: var(--green);
-      box-shadow: 0 0 16px var(--green);
-      animation: pulse 1.5s infinite;
+      box-shadow: 0 0 15px var(--green);
+      animation: pulse 1.8s infinite;
     }
 
     @keyframes pulse {
+      0%, 100% {
+        opacity: .4;
+        transform: scale(.8);
+      }
+
       50% {
-        opacity: .35;
-        transform: scale(.65);
+        opacity: 1;
+        transform: scale(1);
       }
     }
 
     .hero-title {
-      margin-top: 20px;
-
-      font-family: Orbitron, sans-serif;
-      font-size: clamp(3.3rem, 7vw, 7.5rem);
-      line-height: .9;
-      letter-spacing: -4px;
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(45px, 7vw, 88px);
+      line-height: .93;
+      letter-spacing: -.065em;
+      margin-bottom: 24px;
     }
 
-    .hero-title .outline {
+    .hero-title .name {
+      display: block;
+    }
+
+    .hero-title .tagline {
+      display: block;
+      margin-top: 15px;
+
+      background: linear-gradient(
+        90deg,
+        #fff,
+        var(--cyan),
+        var(--purple)
+      );
+
+      -webkit-background-clip: text;
+      background-clip: text;
       color: transparent;
-      -webkit-text-stroke: 1px rgba(255,255,255,.55);
     }
 
-    .hero-title .cyan {
-      color: var(--cyan);
-      text-shadow: 0 0 40px rgba(0,234,255,.18);
-    }
-
-    .hero-subtitle {
-      margin-top: 30px;
-      max-width: 700px;
-
-      font-size: clamp(1rem, 1.5vw, 1.25rem);
-      color: #b8c7da;
+    .hero-description {
+      max-width: 680px;
+      color: var(--muted);
+      font-size: 16px;
       line-height: 1.8;
-    }
-
-    .hero-subtitle strong {
-      color: white;
+      margin-bottom: 34px;
     }
 
     .hero-actions {
       display: flex;
-      gap: 14px;
       flex-wrap: wrap;
-      margin-top: 35px;
+      gap: 12px;
+      margin-bottom: 40px;
     }
 
     .btn {
@@ -567,169 +870,185 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 10px;
 
-      padding: 14px 22px;
+      min-height: 48px;
+      padding: 0 22px;
 
-      border-radius: 14px;
+      border: 1px solid var(--line-strong);
 
-      font-size: .8rem;
-      font-weight: 700;
-      letter-spacing: .7px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: .12em;
+      text-transform: uppercase;
 
       cursor: pointer;
 
+      overflow: hidden;
       transition:
-        transform .3s,
-        box-shadow .3s,
-        border-color .3s;
+        transform .25s ease,
+        border-color .25s ease,
+        background .25s ease;
+    }
+
+    .btn::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255,255,255,.1),
+        transparent
+      );
+
+      transform: translateX(-120%);
+      transition: transform .6s ease;
+    }
+
+    .btn:hover::before {
+      transform: translateX(120%);
     }
 
     .btn:hover {
-      transform: translateY(-4px);
+      transform: translateY(-3px);
     }
 
     .btn-primary {
-      background:
-        linear-gradient(
-          135deg,
-          var(--cyan),
-          #4ca9ff
-        );
+      background: linear-gradient(
+        100deg,
+        rgba(0,229,255,.18),
+        rgba(61,124,255,.14)
+      );
 
-      color: #001018;
+      color: #fff;
 
       box-shadow:
-        0 15px 40px rgba(0,234,255,.18);
+        0 0 35px rgba(0,229,255,.08),
+        inset 0 0 20px rgba(0,229,255,.03);
+    }
+
+    .btn-primary:hover {
+      border-color: var(--cyan);
+      box-shadow: 0 0 35px rgba(0,229,255,.15);
     }
 
     .btn-secondary {
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,.035);
-      color: white;
+      color: var(--muted);
+      background: rgba(255,255,255,.025);
     }
 
     .btn-secondary:hover {
-      border-color: rgba(0,234,255,.5);
-      box-shadow: var(--glow);
+      color: var(--text);
+      border-color: rgba(255,255,255,.25);
     }
 
     .hero-meta {
-      display: flex;
-      gap: 28px;
-      margin-top: 50px;
-      flex-wrap: wrap;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      max-width: 680px;
+      border-top: 1px solid var(--line);
     }
 
-    .meta-item {
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
+    .hero-meta-item {
+      padding: 18px 18px 0 0;
+      border-right: 1px solid var(--line);
     }
 
-    .meta-number {
-      font-family: Orbitron, sans-serif;
-      font-size: 1.25rem;
-      color: white;
+    .hero-meta-item:not(:first-child) {
+      padding-left: 18px;
     }
 
-    .meta-label {
-      color: #6f829c;
-      font-size: .68rem;
+    .hero-meta-item:last-child {
+      border-right: none;
+    }
+
+    .hero-meta-value {
+      font-family: "Orbitron", sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 5px;
+    }
+
+    .hero-meta-label {
+      color: var(--muted-2);
+      font-size: 9px;
+      letter-spacing: .12em;
       text-transform: uppercase;
-      letter-spacing: 1px;
     }
 
     /* =========================================================
-       EARTH SCENE
+       EARTH VISUAL
     ========================================================= */
 
     .earth-wrapper {
-      height: 650px;
       position: relative;
+      min-height: 570px;
 
       display: grid;
       place-items: center;
     }
 
-    #earthCanvas {
+    .earth-wrapper::before {
+      content: "";
       position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
+
+      width: 420px;
+      height: 420px;
+
+      border-radius: 50%;
+
+      background: radial-gradient(
+        circle,
+        rgba(0,229,255,.14),
+        rgba(61,124,255,.04) 45%,
+        transparent 70%
+      );
+
+      filter: blur(10px);
     }
 
-    .earth-hud {
+    #earthCanvas {
+      position: relative;
+      width: 100%;
+      height: 570px;
+      z-index: 2;
+    }
+
+    .hud {
       position: absolute;
-      top: 10%;
-      right: 0;
+      z-index: 4;
 
-      width: 220px;
+      padding: 14px 16px;
 
-      padding: 16px;
-
-      border: 1px solid rgba(0,234,255,.15);
-      border-radius: 18px;
-
-      background: rgba(3,8,20,.65);
+      border: 1px solid var(--line-strong);
+      background: rgba(3,7,14,.68);
       backdrop-filter: blur(15px);
+
+      font-family: "Orbitron", sans-serif;
+      font-size: 9px;
+      letter-spacing: .1em;
+
+      box-shadow: 0 0 30px rgba(0,229,255,.05);
+    }
+
+    .hud.top {
+      top: 55px;
+      right: 10px;
+    }
+
+    .hud.bottom {
+      bottom: 65px;
+      left: 5px;
     }
 
     .hud-title {
-      font-family: Orbitron, sans-serif;
-      font-size: .62rem;
       color: var(--cyan);
-      letter-spacing: 2px;
-      margin-bottom: 12px;
+      margin-bottom: 6px;
     }
 
-    .hud-row {
-      display: flex;
-      justify-content: space-between;
-      padding: 7px 0;
-      border-bottom: 1px solid rgba(255,255,255,.06);
-      font-size: .65rem;
-    }
-
-    .hud-row:last-child {
-      border: none;
-    }
-
-    .hud-row span:first-child {
-      color: #71839a;
-    }
-
-    .hud-row span:last-child {
-      color: white;
-    }
-
-    .satellite-badge {
-      position: absolute;
-      bottom: 12%;
-      left: 2%;
-
-      display: flex;
-      align-items: center;
-      gap: 10px;
-
-      padding: 10px 14px;
-
-      border-radius: 999px;
-      border: 1px solid rgba(0,255,157,.18);
-
-      background: rgba(0,15,15,.65);
-      backdrop-filter: blur(12px);
-
-      font-size: .65rem;
-      color: #c8d6e5;
-    }
-
-    .satellite-badge span {
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-      background: var(--green);
-      box-shadow: 0 0 10px var(--green);
+    .hud-value {
+      color: var(--muted);
     }
 
     /* =========================================================
@@ -737,655 +1056,517 @@
     ========================================================= */
 
     .trust-strip {
-      padding: 25px 0;
-      border-top: 1px solid rgba(255,255,255,.06);
-      border-bottom: 1px solid rgba(255,255,255,.06);
-
-      background: rgba(255,255,255,.015);
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      padding: 24px 0;
+      background: rgba(255,255,255,.012);
     }
 
-    .trust-grid {
+    .trust-items {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      gap: 15px;
+      gap: 20px;
     }
 
     .trust-item {
       text-align: center;
-      padding: 15px;
-    }
 
-    .trust-item small {
-      display: block;
-      color: #71839a;
-      font-size: .6rem;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      margin-bottom: 8px;
+      font-family: "Orbitron", sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .13em;
+
+      color: var(--muted-2);
     }
 
     .trust-item strong {
-      font-family: Orbitron, sans-serif;
-      font-size: .9rem;
+      color: var(--text);
     }
 
     /* =========================================================
-       ABOUT
+       IDENTITY
     ========================================================= */
 
-    .about-grid {
+    .identity-grid {
       display: grid;
-      grid-template-columns: .85fr 1.15fr;
+      grid-template-columns: .8fr 1.2fr;
       gap: 70px;
       align-items: center;
     }
 
     .profile-card {
       position: relative;
-      min-height: 540px;
-
-      border-radius: 32px;
-      overflow: hidden;
-
-      padding: 35px;
+      min-height: 500px;
 
       display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
+      align-items: center;
+      justify-content: center;
 
-      background:
-        radial-gradient(
-          circle at 50% 30%,
-          rgba(0,234,255,.13),
-          transparent 40%
-        ),
-        linear-gradient(
-          145deg,
-          #071124,
-          #040711
-        );
+      overflow: hidden;
     }
 
-    .profile-grid {
-      position: absolute;
-      inset: 0;
-
-      background-image:
-        linear-gradient(rgba(0,234,255,.06) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0,234,255,.06) 1px, transparent 1px);
-
-      background-size: 35px 35px;
-
-      mask-image: linear-gradient(
-        to bottom,
-        transparent,
-        black 30%,
-        black 80%,
-        transparent
-      );
-    }
-
-    .profile-orbit {
-      position: absolute;
-
-      width: 310px;
-      height: 310px;
-
-      border: 1px solid rgba(0,234,255,.18);
-      border-radius: 50%;
-
-      top: 80px;
-      left: 50%;
-
-      transform: translateX(-50%) rotateX(65deg);
-    }
-
-    .profile-orbit::before {
+    .profile-card::before {
       content: "";
       position: absolute;
+      width: 330px;
+      height: 330px;
 
-      width: 9px;
-      height: 9px;
-
-      background: var(--cyan);
+      border: 1px solid rgba(0,229,255,.2);
       border-radius: 50%;
 
-      top: 30px;
-      left: 40px;
+      box-shadow:
+        0 0 80px rgba(0,229,255,.08),
+        inset 0 0 80px rgba(0,229,255,.04);
+    }
 
-      box-shadow: 0 0 20px var(--cyan);
+    .profile-card::after {
+      content: "";
+      position: absolute;
+      width: 250px;
+      height: 250px;
+
+      border: 1px dashed rgba(139,92,246,.35);
+      border-radius: 50%;
+
+      animation: spin 18s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
     }
 
     .profile-core {
-      position: absolute;
+      position: relative;
+      z-index: 3;
 
-      width: 160px;
-      height: 160px;
-
-      border-radius: 50%;
-
-      top: 145px;
-      left: 50%;
-
-      transform: translateX(-50%);
-
-      background:
-        radial-gradient(
-          circle at 35% 30%,
-          rgba(255,255,255,.2),
-          transparent 25%
-        ),
-        radial-gradient(
-          circle,
-          rgba(0,234,255,.25),
-          rgba(5,12,30,.9) 70%
-        );
-
-      border: 1px solid rgba(0,234,255,.4);
-
-      box-shadow:
-        0 0 70px rgba(0,234,255,.13),
-        inset 0 0 50px rgba(0,234,255,.12);
-    }
-
-    .profile-core::after {
-      content: "RR";
-
-      position: absolute;
-      inset: 0;
+      width: 180px;
+      height: 180px;
 
       display: grid;
       place-items: center;
 
-      font-family: Orbitron, sans-serif;
-      font-size: 2.4rem;
-      font-weight: 900;
+      border-radius: 50%;
 
-      color: white;
+      border: 1px solid rgba(0,229,255,.5);
+
+      background:
+        radial-gradient(
+          circle,
+          rgba(0,229,255,.12),
+          rgba(5,7,13,.9) 65%
+        );
+
+      box-shadow:
+        0 0 70px rgba(0,229,255,.1),
+        inset 0 0 50px rgba(0,229,255,.04);
     }
 
-    .profile-content {
-      position: relative;
-      z-index: 2;
+    .profile-initials {
+      font-family: "Orbitron", sans-serif;
+      font-size: 48px;
+      font-weight: 900;
+      color: var(--cyan);
+      text-shadow: 0 0 30px rgba(0,229,255,.5);
+    }
+
+    .profile-info {
+      position: absolute;
+      bottom: 38px;
+      text-align: center;
+      z-index: 4;
     }
 
     .profile-name {
-      font-family: Orbitron, sans-serif;
-      font-size: 1.5rem;
+      font-family: "Orbitron", sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      letter-spacing: .08em;
     }
 
     .profile-role {
-      color: var(--cyan);
-      font-size: .72rem;
-      margin-top: 7px;
-      letter-spacing: 1px;
-    }
-
-    .profile-location {
-      color: #74879e;
-      font-size: .7rem;
-      margin-top: 18px;
-    }
-
-    .about-copy p {
       color: var(--muted);
-      line-height: 1.9;
-      margin-top: 20px;
+      font-size: 10px;
+      letter-spacing: .12em;
+      margin-top: 7px;
     }
 
-    .identity-cards {
+    .identity-copy {
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.9;
+      margin-bottom: 35px;
+    }
+
+    .identity-highlights {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-      margin-top: 30px;
+      gap: 14px;
     }
 
     .identity-card {
-      padding: 20px;
-
-      border: 1px solid var(--border);
-      border-radius: 18px;
+      min-height: 170px;
+      padding: 24px;
 
       background: rgba(255,255,255,.025);
+      border: 1px solid var(--line);
 
-      transition: .3s;
+      transition:
+        transform .3s ease,
+        border-color .3s ease,
+        background .3s ease;
     }
 
     .identity-card:hover {
-      transform: translateY(-5px);
-      border-color: rgba(0,234,255,.35);
-      box-shadow: var(--glow);
+      transform: translateY(-7px);
+      border-color: rgba(0,229,255,.28);
+      background: rgba(0,229,255,.035);
     }
 
-    .identity-icon {
-      font-size: 1.4rem;
-      margin-bottom: 15px;
+    .identity-card-number {
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
+      color: var(--cyan);
+      margin-bottom: 28px;
     }
 
-    .identity-card h4 {
-      font-family: Orbitron, sans-serif;
-      font-size: .72rem;
-      margin-bottom: 7px;
+    .identity-card h3 {
+      font-family: "Orbitron", sans-serif;
+      font-size: 13px;
+      margin-bottom: 8px;
     }
 
     .identity-card p {
-      margin: 0;
-      font-size: .7rem;
-      line-height: 1.6;
-      color: #70839a;
+      color: var(--muted);
+      font-size: 12px;
     }
 
     /* =========================================================
        RESEARCH
     ========================================================= */
 
-    .research-header {
-      margin-bottom: 50px;
-    }
-
     .research-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 18px;
+      margin-top: 55px;
     }
 
     .research-card {
-      padding: 30px;
-      border-radius: var(--radius);
+      position: relative;
+      min-height: 310px;
+      padding: 32px;
 
-      min-height: 300px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+
+      overflow: hidden;
 
       transition:
-        transform .4s,
-        border-color .4s,
-        background .4s;
+        transform .35s ease,
+        border-color .35s ease;
+    }
 
-      position: relative;
-      overflow: hidden;
+    .research-card:hover {
+      transform: translateY(-8px);
+      border-color: rgba(0,229,255,.3);
     }
 
     .research-card::before {
       content: "";
-
       position: absolute;
-      width: 150px;
-      height: 150px;
-
+      width: 180px;
+      height: 180px;
       border-radius: 50%;
 
-      right: -70px;
-      top: -70px;
-
       background: var(--cyan);
-      filter: blur(70px);
-      opacity: .08;
+      filter: blur(100px);
+      opacity: .04;
+
+      right: -80px;
+      top: -80px;
     }
 
-    .research-card:hover {
-      transform: translateY(-10px);
-      border-color: rgba(0,234,255,.35);
-    }
-
-    .research-number {
-      font-family: Orbitron, sans-serif;
-      color: #344762;
-      font-size: .7rem;
-    }
-
-    .research-icon {
-      margin-top: 35px;
-      font-size: 2rem;
+    .research-index {
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
+      color: var(--cyan);
+      margin-bottom: 60px;
     }
 
     .research-card h3 {
-      margin-top: 20px;
-      font-family: Orbitron, sans-serif;
-      font-size: 1rem;
+      font-family: "Orbitron", sans-serif;
+      font-size: 19px;
+      margin-bottom: 12px;
     }
 
     .research-card p {
-      margin-top: 14px;
       color: var(--muted);
-      line-height: 1.7;
-      font-size: .8rem;
+      font-size: 13px;
+      line-height: 1.75;
+      margin-bottom: 25px;
     }
 
-    .tag-list {
+    .tags {
       display: flex;
       flex-wrap: wrap;
       gap: 7px;
-      margin-top: 20px;
     }
 
     .tag {
-      padding: 6px 9px;
-
-      border: 1px solid rgba(255,255,255,.08);
-      border-radius: 999px;
-
-      color: #93a5bb;
-      font-size: .6rem;
-
+      padding: 5px 9px;
+      border: 1px solid var(--line);
       background: rgba(255,255,255,.025);
+
+      color: var(--muted-2);
+
+      font-family: "Orbitron", sans-serif;
+      font-size: 8px;
+      letter-spacing: .08em;
     }
 
     /* =========================================================
        PROJECTS
     ========================================================= */
 
-    .projects-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: end;
-      gap: 30px;
-      margin-bottom: 50px;
+    .projects {
+      background:
+        linear-gradient(
+          180deg,
+          transparent,
+          rgba(0,229,255,.018),
+          transparent
+        );
     }
 
-    .projects-grid {
+    .project-list {
+      margin-top: 55px;
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
+      gap: 18px;
     }
 
     .project-card {
-      position: relative;
-      overflow: hidden;
+      display: grid;
+      grid-template-columns: 100px 1fr auto;
+      gap: 30px;
+      align-items: center;
 
-      border-radius: 26px;
-      min-height: 420px;
+      padding: 32px;
 
-      padding: 30px;
+      background: var(--panel);
+      border: 1px solid var(--line);
 
-      transition: .4s;
+      transition:
+        transform .3s ease,
+        border-color .3s ease;
     }
 
     .project-card:hover {
-      transform: translateY(-8px);
-      border-color: rgba(0,234,255,.35);
+      transform: translateX(6px);
+      border-color: rgba(0,229,255,.28);
     }
 
     .project-number {
-      font-family: Orbitron, sans-serif;
-      color: var(--cyan);
-      font-size: .65rem;
-      letter-spacing: 2px;
+      font-family: "Orbitron", sans-serif;
+      font-size: 30px;
+      font-weight: 800;
+      color: rgba(0,229,255,.35);
     }
 
-    .project-card h3 {
-      font-family: Orbitron, sans-serif;
-      font-size: 1.35rem;
-      margin-top: 25px;
-      max-width: 600px;
+    .project-title {
+      font-family: "Orbitron", sans-serif;
+      font-size: 17px;
+      margin-bottom: 8px;
     }
 
-    .project-card p {
+    .project-description {
       color: var(--muted);
-      line-height: 1.8;
-      font-size: .8rem;
-      margin-top: 16px;
-      max-width: 600px;
-    }
-
-    .project-visual {
-      position: absolute;
-      right: -30px;
-      bottom: -40px;
-
-      width: 300px;
-      height: 220px;
-
-      opacity: .25;
-
-      transform: rotate(-8deg);
-
-      background:
-        linear-gradient(
-          135deg,
-          transparent 45%,
-          rgba(0,234,255,.35) 46%,
-          rgba(0,234,255,.04) 48%,
-          transparent 50%
-        );
-
-      border: 1px solid rgba(0,234,255,.2);
-
-      border-radius: 30px;
-    }
-
-    .project-visual::before,
-    .project-visual::after {
-      content: "";
-
-      position: absolute;
-
-      border: 1px solid rgba(0,234,255,.3);
-      border-radius: 50%;
-    }
-
-    .project-visual::before {
-      width: 180px;
-      height: 180px;
-      left: 60px;
-      top: 15px;
-    }
-
-    .project-visual::after {
-      width: 90px;
-      height: 90px;
-      left: 105px;
-      top: 60px;
-      background: rgba(0,234,255,.05);
-    }
-
-    .project-footer {
-      position: absolute;
-      bottom: 28px;
-      left: 30px;
-      right: 30px;
-
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .project-type {
-      color: #74869d;
-      font-size: .62rem;
-      text-transform: uppercase;
-      letter-spacing: 1px;
+      font-size: 13px;
+      max-width: 760px;
     }
 
     .project-link {
-      width: 38px;
-      height: 38px;
-
-      border: 1px solid var(--border);
-      border-radius: 50%;
+      width: 44px;
+      height: 44px;
 
       display: grid;
       place-items: center;
 
+      border: 1px solid var(--line);
       color: var(--cyan);
 
-      transition: .3s;
+      font-family: "Orbitron", sans-serif;
+      font-size: 15px;
+
+      transition: .25s ease;
     }
 
     .project-link:hover {
-      background: var(--cyan);
-      color: #001018;
+      border-color: var(--cyan);
+      box-shadow: 0 0 25px rgba(0,229,255,.1);
+      transform: rotate(-8deg);
     }
 
     /* =========================================================
-       AI NETWORK
+       AI VISUALIZATION
     ========================================================= */
 
-    .ai-section {
+    .ai-visual {
+      min-height: 500px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
       overflow: hidden;
     }
 
-    .ai-panel {
-      min-height: 600px;
-      border-radius: 35px;
-
-      position: relative;
-      overflow: hidden;
-
-      background:
-        radial-gradient(
-          circle at 50% 50%,
-          rgba(0,234,255,.06),
-          transparent 45%
-        ),
-        rgba(255,255,255,.02);
+    .ai-copy {
+      padding: 60px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
     }
 
-    #neuralCanvas {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
+    .ai-copy h2 {
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(30px, 4vw, 52px);
+      line-height: 1;
+      margin-bottom: 20px;
     }
 
-    .ai-content {
-      position: relative;
-      z-index: 2;
-
-      width: min(600px, 90%);
-      padding: 70px;
-    }
-
-    .ai-content h2 {
-      font-family: Orbitron, sans-serif;
-      font-size: clamp(2rem, 4vw, 4rem);
-      line-height: 1.05;
-    }
-
-    .ai-content h2 span {
-      color: var(--green);
-    }
-
-    .ai-content p {
+    .ai-copy p {
       color: var(--muted);
+      max-width: 500px;
+      font-size: 14px;
       line-height: 1.8;
-      margin-top: 20px;
     }
 
     .ai-stats {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 12px;
-      margin-top: 35px;
+      margin-top: 40px;
+      border-top: 1px solid var(--line);
     }
 
     .ai-stat {
-      padding: 18px;
-      border: 1px solid var(--border);
-      background: rgba(0,0,0,.25);
-      border-radius: 15px;
+      padding-top: 20px;
+    }
+
+    .ai-stat:not(:last-child) {
+      border-right: 1px solid var(--line);
+      margin-right: 15px;
     }
 
     .ai-stat strong {
       display: block;
-      font-family: Orbitron, sans-serif;
-      font-size: 1.2rem;
+      font-family: "Orbitron", sans-serif;
+      font-size: 24px;
+      color: var(--cyan);
     }
 
     .ai-stat span {
-      color: #6e8198;
-      font-size: .6rem;
+      color: var(--muted-2);
+      font-size: 9px;
+      letter-spacing: .1em;
       text-transform: uppercase;
-      letter-spacing: 1px;
+    }
+
+    .neural-wrap {
+      position: relative;
+      min-height: 500px;
+      border-left: 1px solid var(--line);
+      background:
+        radial-gradient(
+          circle at center,
+          rgba(0,229,255,.05),
+          transparent 65%
+        );
+    }
+
+    #neuralCanvas {
+      width: 100%;
+      height: 100%;
+      min-height: 500px;
     }
 
     /* =========================================================
-       TIMELINE
+       JOURNEY
     ========================================================= */
 
     .timeline {
       position: relative;
-      max-width: 1050px;
-      margin: 70px auto 0;
+      margin-top: 60px;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .timeline::before {
       content: "";
-
       position: absolute;
-
-      left: 50%;
       top: 0;
       bottom: 0;
+      left: 50%;
 
       width: 1px;
-
       background:
         linear-gradient(
           to bottom,
           transparent,
           var(--cyan),
-          rgba(168,85,247,.5),
+          var(--purple),
           transparent
         );
     }
 
     .timeline-item {
       width: 50%;
-      padding: 0 45px 70px;
-
+      padding: 0 40px 55px 0;
       position: relative;
     }
 
     .timeline-item:nth-child(even) {
       margin-left: 50%;
+      padding-left: 40px;
+      padding-right: 0;
     }
 
     .timeline-dot {
       position: absolute;
+      top: 5px;
+      right: -5px;
 
-      width: 13px;
-      height: 13px;
+      width: 10px;
+      height: 10px;
 
       border-radius: 50%;
-
-      top: 7px;
-
       background: var(--cyan);
 
-      box-shadow:
-        0 0 0 6px rgba(0,234,255,.08),
-        0 0 25px rgba(0,234,255,.7);
-    }
-
-    .timeline-item:nth-child(odd) .timeline-dot {
-      right: -6px;
+      box-shadow: 0 0 20px var(--cyan);
     }
 
     .timeline-item:nth-child(even) .timeline-dot {
-      left: -7px;
-    }
-
-    .timeline-card {
-      padding: 25px;
-      border-radius: 20px;
+      left: -5px;
+      right: auto;
     }
 
     .timeline-year {
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
       color: var(--cyan);
-      font-family: Orbitron, sans-serif;
-      font-size: .7rem;
-      letter-spacing: 2px;
+      letter-spacing: .15em;
+      margin-bottom: 10px;
     }
 
-    .timeline-card h3 {
-      margin-top: 12px;
-      font-size: 1rem;
+    .timeline-title {
+      font-family: "Orbitron", sans-serif;
+      font-size: 17px;
+      margin-bottom: 8px;
     }
 
-    .timeline-card p {
+    .timeline-description {
       color: var(--muted);
-      font-size: .75rem;
+      font-size: 13px;
       line-height: 1.7;
-      margin-top: 10px;
     }
 
     /* =========================================================
@@ -1395,60 +1576,57 @@
     .skills-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 50px;
+      gap: 70px;
       margin-top: 60px;
     }
 
-    .skill-category h3 {
-      font-family: Orbitron, sans-serif;
-      font-size: .8rem;
-      letter-spacing: 2px;
-      color: var(--cyan);
-      margin-bottom: 20px;
+    .skill-group-title {
+      font-family: "Orbitron", sans-serif;
+      font-size: 14px;
+      margin-bottom: 30px;
     }
 
     .skill {
-      margin-bottom: 20px;
+      margin-bottom: 25px;
     }
 
-    .skill-top {
+    .skill-header {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 8px;
+      margin-bottom: 9px;
     }
 
-    .skill-top span:first-child {
-      font-size: .75rem;
-      color: #c9d5e4;
+    .skill-name {
+      font-size: 12px;
+      color: var(--text);
     }
 
-    .skill-top span:last-child {
-      font-size: .65rem;
-      color: #60748d;
+    .skill-level {
+      color: var(--muted-2);
+      font-size: 10px;
+      font-family: "Orbitron", sans-serif;
     }
 
-    .skill-bar {
-      height: 5px;
-      background: rgba(255,255,255,.06);
-      border-radius: 999px;
+    .skill-track {
+      height: 3px;
+      background: rgba(255,255,255,.07);
       overflow: hidden;
     }
 
-    .skill-progress {
-      height: 100%;
+    .skill-bar {
       width: 0;
-      border-radius: inherit;
+      height: 100%;
 
-      background:
-        linear-gradient(
-          90deg,
-          var(--cyan),
-          var(--purple)
-        );
+      background: linear-gradient(
+        90deg,
+        var(--cyan),
+        var(--blue),
+        var(--purple)
+      );
 
-      box-shadow: 0 0 15px rgba(0,234,255,.35);
+      box-shadow: 0 0 12px rgba(0,229,255,.3);
 
-      transition: width 1.5s cubic-bezier(.2,.7,.2,1);
+      transition: width 1.5s cubic-bezier(.16,1,.3,1);
     }
 
     /* =========================================================
@@ -1459,119 +1637,100 @@
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 15px;
-      margin-top: 50px;
+      margin-top: 55px;
     }
 
     .achievement {
-      min-height: 220px;
-
+      min-height: 200px;
       padding: 25px;
 
-      border-radius: 22px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.02);
 
-      position: relative;
-      overflow: hidden;
-
-      transition: .4s;
+      transition: .3s ease;
     }
 
     .achievement:hover {
-      transform: translateY(-8px);
-      border-color: rgba(168,85,247,.35);
+      transform: translateY(-6px);
+      border-color: rgba(0,229,255,.25);
     }
 
-    .achievement-icon {
-      font-size: 1.7rem;
+    .achievement-index {
+      color: var(--cyan);
+      font-family: "Orbitron", sans-serif;
+      font-size: 10px;
+      margin-bottom: 55px;
     }
 
     .achievement h3 {
-      font-family: Orbitron, sans-serif;
-      font-size: .9rem;
-      margin-top: 20px;
+      font-family: "Orbitron", sans-serif;
+      font-size: 13px;
+      margin-bottom: 8px;
     }
 
     .achievement p {
       color: var(--muted);
-      font-size: .7rem;
-      line-height: 1.7;
-      margin-top: 10px;
-    }
-
-    .achievement::after {
-      content: "";
-
-      position: absolute;
-
-      width: 100px;
-      height: 100px;
-
-      right: -40px;
-      bottom: -40px;
-
-      border-radius: 50%;
-
-      background: var(--purple);
-      filter: blur(45px);
-      opacity: .1;
+      font-size: 11px;
+      line-height: 1.6;
     }
 
     /* =========================================================
        CONTACT
     ========================================================= */
 
-    .contact-panel {
-      border-radius: 32px;
+    .contact-section {
+      padding-bottom: 80px;
+    }
 
-      padding: 70px;
-
+    .contact-card {
       position: relative;
-      overflow: hidden;
+      padding: 80px 60px;
 
       text-align: center;
+      overflow: hidden;
+
+      background:
+        radial-gradient(
+          circle at center,
+          rgba(0,229,255,.06),
+          transparent 65%
+        ),
+        var(--panel);
+
+      border: 1px solid var(--line);
     }
 
-    .contact-panel::before {
+    .contact-card::before,
+    .contact-card::after {
       content: "";
-
       position: absolute;
-      width: 600px;
-      height: 600px;
-
-      left: 50%;
-      top: 50%;
-
-      transform: translate(-50%, -50%);
-
-      border-radius: 50%;
-
-      border: 1px solid rgba(0,234,255,.08);
-
-      box-shadow:
-        0 0 0 80px rgba(0,234,255,.015),
-        0 0 0 160px rgba(0,234,255,.01);
+      width: 180px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--cyan));
+      top: 35px;
     }
 
-    .contact-panel > * {
-      position: relative;
-      z-index: 2;
+    .contact-card::before {
+      left: 0;
     }
 
-    .contact-panel h2 {
-      font-family: Orbitron, sans-serif;
-      font-size: clamp(2rem, 5vw, 5rem);
+    .contact-card::after {
+      right: 0;
+      transform: rotate(180deg);
+    }
+
+    .contact-card h2 {
+      font-family: "Orbitron", sans-serif;
+      font-size: clamp(35px, 6vw, 70px);
       line-height: 1;
+      margin-bottom: 18px;
     }
 
-    .contact-panel h2 span {
-      color: var(--cyan);
-    }
-
-    .contact-panel p {
-      max-width: 650px;
-      margin: 22px auto 0;
-
+    .contact-card p {
       color: var(--muted);
-      line-height: 1.8;
+      margin: auto;
+      max-width: 620px;
+      font-size: 14px;
     }
 
     .contact-actions {
@@ -1579,7 +1738,7 @@
       justify-content: center;
       flex-wrap: wrap;
       gap: 12px;
-      margin-top: 35px;
+      margin-top: 32px;
     }
 
     /* =========================================================
@@ -1587,45 +1746,131 @@
     ========================================================= */
 
     footer {
-      padding: 40px 0 50px;
-      border-top: 1px solid rgba(255,255,255,.06);
+      border-top: 1px solid var(--line);
+      padding: 30px 0;
     }
 
     .footer-inner {
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      gap: 30px;
+      justify-content: space-between;
+      gap: 20px;
     }
 
     .footer-brand {
-      font-family: Orbitron, sans-serif;
-      font-size: .8rem;
+      font-family: "Orbitron", sans-serif;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: .12em;
     }
 
-    .footer-brand span {
-      color: var(--cyan);
-    }
-
-    .footer-copy {
-      color: #586b82;
-      font-size: .65rem;
-      text-align: right;
+    .footer-text {
+      color: var(--muted-2);
+      font-size: 10px;
     }
 
     /* =========================================================
-       SCROLL REVEAL
+       MODAL
+    ========================================================= */
+
+    .modal {
+      position: fixed;
+      inset: 0;
+
+      z-index: 1000;
+
+      display: grid;
+      place-items: center;
+
+      padding: 20px;
+
+      background: rgba(0,0,0,.72);
+      backdrop-filter: blur(15px);
+
+      opacity: 0;
+      visibility: hidden;
+
+      transition: .3s ease;
+    }
+
+    .modal.active {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .modal-box {
+      position: relative;
+      width: min(560px, 100%);
+      padding: 40px;
+
+      background: var(--panel-strong);
+      border: 1px solid var(--line-strong);
+
+      box-shadow:
+        0 40px 120px rgba(0,0,0,.6),
+        0 0 70px rgba(0,229,255,.06);
+
+      transform: translateY(20px) scale(.97);
+      transition: .35s ease;
+    }
+
+    .modal.active .modal-box {
+      transform: translateY(0) scale(1);
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+
+      width: 35px;
+      height: 35px;
+
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--muted);
+
+      cursor: pointer;
+    }
+
+    .modal-close:hover {
+      color: var(--cyan);
+      border-color: var(--cyan);
+    }
+
+    .modal-label {
+      color: var(--cyan);
+      font-family: "Orbitron", sans-serif;
+      font-size: 9px;
+      letter-spacing: .15em;
+      margin-bottom: 12px;
+    }
+
+    .modal-box h3 {
+      font-family: "Orbitron", sans-serif;
+      font-size: 25px;
+      margin-bottom: 12px;
+    }
+
+    .modal-box p {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 25px;
+    }
+
+    /* =========================================================
+       REVEAL
     ========================================================= */
 
     .reveal {
       opacity: 0;
-      transform: translateY(35px);
+      transform: translateY(25px);
       transition:
         opacity .8s ease,
         transform .8s ease;
     }
 
-    .reveal.active {
+    .reveal.visible {
       opacity: 1;
       transform: translateY(0);
     }
@@ -1634,53 +1879,61 @@
        RESPONSIVE
     ========================================================= */
 
-    @media (max-width: 1100px) {
-
-      .hero-grid {
+    @media (max-width: 1050px) {
+      .hero-layout {
         grid-template-columns: 1fr;
       }
 
       .earth-wrapper {
-        height: 550px;
+        min-height: 500px;
       }
 
-      .about-grid {
+      #earthCanvas {
+        height: 500px;
+      }
+
+      .identity-grid {
         grid-template-columns: 1fr;
       }
 
+      .profile-card {
+        min-height: 420px;
+      }
+
       .research-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
       }
 
       .achievement-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(2, 1fr);
       }
 
+      .ai-visual {
+        grid-template-columns: 1fr;
+      }
+
+      .neural-wrap {
+        border-left: 0;
+        border-top: 1px solid var(--line);
+      }
     }
 
-    @media (max-width: 800px) {
-
-      section {
-        padding: 90px 0;
-      }
-
+    @media (max-width: 850px) {
       .nav-links {
         position: fixed;
         top: 76px;
-        left: 5%;
-        right: 5%;
+        left: 20px;
+        right: 20px;
 
         display: none;
         flex-direction: column;
         align-items: stretch;
 
-        padding: 20px;
+        padding: 15px;
 
-        border: 1px solid var(--border);
-        border-radius: 20px;
-
-        background: rgba(3,5,13,.92);
-        backdrop-filter: blur(20px);
+        background: rgba(5,7,13,.96);
+        border: 1px solid var(--line);
+        backdrop-filter: blur(25px);
       }
 
       .nav-links.open {
@@ -1688,15 +1941,54 @@
       }
 
       .nav-links a {
-        padding: 12px;
+        padding: 14px;
       }
 
-      .menu-btn {
-        display: block;
+      .mobile-toggle {
+        display: grid;
       }
 
-      .nav-cta {
-        text-align: center;
+      .nav-right {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .identity-highlights {
+        grid-template-columns: 1fr;
+      }
+
+      .skills-grid {
+        grid-template-columns: 1fr;
+        gap: 50px;
+      }
+
+      .trust-items {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+      }
+
+      .project-card {
+        grid-template-columns: 55px 1fr auto;
+        gap: 18px;
+      }
+    }
+
+    @media (max-width: 650px) {
+      .container {
+        width: min(var(--max), calc(100% - 28px));
+      }
+
+      section {
+        padding: 85px 0;
+      }
+
+      .navbar {
+        padding: 14px;
+      }
+
+      .brand-text {
+        display: none;
       }
 
       .hero {
@@ -1704,30 +1996,73 @@
       }
 
       .hero-title {
-        letter-spacing: -2px;
+        font-size: clamp(42px, 13vw, 70px);
+      }
+
+      .hero-meta {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-meta-item,
+      .hero-meta-item:not(:first-child) {
+        padding: 14px 0;
+        border-right: none;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .hero-meta-item:last-child {
+        border-bottom: none;
       }
 
       .earth-wrapper {
-        height: 450px;
+        min-height: 390px;
       }
 
-      .trust-grid {
-        grid-template-columns: 1fr 1fr;
+      #earthCanvas {
+        height: 390px;
       }
 
-      .research-grid {
+      .hud.top {
+        top: 20px;
+        right: 0;
+      }
+
+      .hud.bottom {
+        bottom: 25px;
+        left: 0;
+      }
+
+      .profile-card {
+        min-height: 390px;
+      }
+
+      .profile-card::before {
+        width: 280px;
+        height: 280px;
+      }
+
+      .profile-card::after {
+        width: 210px;
+        height: 210px;
+      }
+
+      .research-card {
+        min-height: auto;
+      }
+
+      .project-card {
         grid-template-columns: 1fr;
       }
 
-      .projects-grid {
-        grid-template-columns: 1fr;
+      .project-number {
+        font-size: 24px;
       }
 
-      .projects-header {
-        display: block;
+      .project-link {
+        margin-top: 5px;
       }
 
-      .skills-grid {
+      .achievement-grid {
         grid-template-columns: 1fr;
       }
 
@@ -1739,337 +2074,190 @@
       .timeline-item:nth-child(even) {
         width: 100%;
         margin-left: 0;
-        padding-left: 45px;
+        padding-left: 40px;
         padding-right: 0;
       }
 
-      .timeline-item:nth-child(odd) .timeline-dot,
+      .timeline-dot,
       .timeline-item:nth-child(even) .timeline-dot {
-        left: 4px;
+        left: 5px;
         right: auto;
       }
 
-      .achievement-grid {
-        grid-template-columns: 1fr 1fr;
-      }
-
-      .ai-content {
+      .ai-copy {
         padding: 40px 25px;
       }
 
-      .contact-panel {
-        padding: 50px 25px;
+      .contact-card {
+        padding: 55px 25px;
       }
 
       .footer-inner {
         flex-direction: column;
-        align-items: flex-start;
+        text-align: center;
       }
-
-      .footer-copy {
-        text-align: left;
-      }
-
-    }
-
-    @media (max-width: 520px) {
-
-      .container {
-        width: 92%;
-      }
-
-      .hero-title {
-        font-size: 3.1rem;
-      }
-
-      .earth-wrapper {
-        height: 390px;
-      }
-
-      .earth-hud {
-        transform: scale(.8);
-        transform-origin: top right;
-      }
-
-      .identity-cards {
-        grid-template-columns: 1fr;
-      }
-
-      .trust-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .ai-stats {
-        grid-template-columns: 1fr;
-      }
-
-      .achievement-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .hero-actions {
-        flex-direction: column;
-        align-items: stretch;
-      }
-
-      .btn {
-        width: 100%;
-      }
-
-    }
-
-    /* =========================
-       ENHANCEMENTS: Progress, Theme, Modal, Telemetry
-    ========================== */
-
-    /* progress bar */
-    #progressBar{
-      position:fixed;
-      top:0;left:0;height:4px;width:0;
-      background:linear-gradient(90deg,var(--cyan),var(--purple));
-      z-index:7000;box-shadow:0 0 14px rgba(0,234,255,.12);
-      transition:width .12s linear;
-    }
-
-    /* theme toggle */
-    .theme-toggle{
-      width:42px;height:42px;border-radius:10px;border:1px solid var(--border);
-      background:rgba(255,255,255,.02);color:var(--cyan);cursor:pointer;margin-right:8px;
-      display:grid;place-items:center;font-size:1.05rem;
-    }
-
-    /* telemetry */
-    .hud-telemetry{margin-top:12px;border-top:1px solid rgba(255,255,255,.03);padding-top:10px}
-    .hud-telemetry .hud-title{font-size:.6rem;color:#7fbfdc;margin-bottom:8px}
-    .hud-telemetry .hud-row{font-size:.7rem;padding:6px 0}
-
-    /* modal */
-    .modal{position:fixed;inset:0;display:none;z-index:8000}
-    .modal[aria-hidden="false"]{display:block}
-    .modal-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.6);backdrop-filter:blur(6px)}
-    .modal-panel{position:relative;max-width:520px;margin:10vh auto;background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,.01));border:1px solid var(--border);border-radius:16px;padding:28px;z-index:2}
-    .modal-close{position:absolute;right:12px;top:10px;background:transparent;border:0;color:#aebdd0;font-size:1.1rem;cursor:pointer}
-    .modal-actions{display:flex;gap:12px;margin-top:18px}
-
-    /* neon theme variation */
-    .neon-theme{
-      --cyan:#7ef0ff;
-      --purple:#ff6ef8;
-      --green:#8bffb8;
-      --bg:#03010a;
-      --bg2:#02020b;
     }
   </style>
 </head>
 
 <body>
 
-  <!-- =========================================================
+  <!-- =======================================================
        LOADER
-  ========================================================== -->
+  ======================================================== -->
 
-  <div id="loader">
-
+  <div class="loader" id="loader">
     <div class="loader-inner">
+      <div class="loader-logo">RISHABH RATHORE</div>
 
-      <div class="loader-logo">
-        RISHABH<span>RATHORE</span>
+      <div class="loader-status">
+        Initializing research interface
       </div>
 
-      <div class="loader-bar"></div>
-
-      <div class="loader-text">
-        Initializing Research Interface...
+      <div class="loader-bar">
+        <div class="loader-progress" id="loaderProgress"></div>
       </div>
-
     </div>
-
   </div>
 
-  <!-- Top scroll progress bar -->
-  <div id="progressBar" aria-hidden="false"></div>
-  <!-- Background -->
+  <!-- =======================================================
+       BACKGROUND
+  ======================================================== -->
 
-  <canvas id="stars"></canvas>
-
-  <div class="grid-background"></div>
-
+  <canvas class="stars" id="starsCanvas"></canvas>
+  <div class="grid-bg"></div>
   <div class="noise"></div>
 
   <div class="orb one"></div>
   <div class="orb two"></div>
   <div class="orb three"></div>
 
-  <div class="cursor-glow"></div>
+  <div class="cursor-glow" id="cursorGlow"></div>
 
-  <!-- =========================================================
-       NAVBAR
-  ========================================================== -->
+  <!-- =======================================================
+       NAVIGATION
+  ======================================================== -->
 
   <header class="navbar" id="navbar">
-
-    <div class="nav-inner">
+    <div class="nav-container">
 
       <a href="#home" class="brand">
-
-        <div class="brand-mark">
-          RR
-        </div>
+        <div class="brand-mark">RR</div>
 
         <div class="brand-text">
           RISHABH<span>.</span>
         </div>
-
       </a>
 
       <nav class="nav-links" id="navLinks">
-
         <a href="#home">Home</a>
-        <a href="#about">Identity</a>
+        <a href="#identity">Identity</a>
         <a href="#research">Research</a>
         <a href="#projects">Projects</a>
         <a href="#journey">Journey</a>
         <a href="#skills">Skills</a>
         <a href="#contact" class="nav-cta">Connect</a>
-
       </nav>
 
-      <button class="theme-toggle" id="themeToggle" aria-label="Toggle neon theme">🌗</button>
+      <div class="nav-right">
 
-      <button class="menu-btn" id="menuBtn">
-        ☰
-      </button>
+        <button
+          class="theme-toggle"
+          id="themeToggle"
+          aria-label="Toggle theme"
+          title="Toggle theme"
+        >
+          <span class="theme-symbol"></span>
+        </button>
 
+        <button
+          class="mobile-toggle"
+          id="mobileToggle"
+          aria-label="Open navigation"
+          aria-expanded="false"
+        >
+          <span id="mobileIcon">+</span>
+        </button>
+
+      </div>
     </div>
-
   </header>
 
   <main>
 
-    <!-- =======================================================
+    <!-- =====================================================
          HERO
-    ======================================================== -->
+    ====================================================== -->
 
     <section class="hero" id="home">
 
-      <div class="container">
+      <div class="container hero-layout">
 
-        <div class="hero-grid">
+        <div class="hero-content reveal">
 
-          <div class="hero-content reveal">
+          <div class="system-status">
+            <span class="status-dot"></span>
+            SYSTEM ONLINE · RESEARCH MODE ACTIVE
+          </div>
 
-            <div class="eyebrow">
+          <h1 class="hero-title">
+            <span class="name">RISHABH</span>
+            <span class="name gradient-text">RATHORE</span>
+            <span class="tagline">BEYOND LIMITS.</span>
+          </h1>
 
-              <span class="status-dot"></span>
+          <p class="hero-description">
+            Computer Science & Data Analytics student at IIT Patna,
+            Research Intern at ISRO-IIRS, and explorer of Artificial
+            Intelligence, Earth Observation, Geospatial Intelligence
+            and Space Technology.
+          </p>
 
-              SYSTEM ONLINE · RESEARCH MODE ACTIVE
+          <div class="hero-actions">
 
+            <a href="#research" class="btn btn-primary magnetic">
+              Explore Research
+            </a>
+
+            <a href="#contact" class="btn btn-secondary magnetic">
+              Connect With Me
+            </a>
+
+          </div>
+
+          <div class="hero-meta">
+
+            <div class="hero-meta-item">
+              <div class="hero-meta-value">IIT PATNA</div>
+              <div class="hero-meta-label">Academic Base</div>
             </div>
 
-            <h1 class="hero-title">
-
-              RISHABH
-              <br>
-
-              <span class="outline">RATHORE</span>
-
-              <br>
-
-              <span class="cyan">BEYOND LIMITS.</span>
-
-            </h1>
-
-            <p class="hero-subtitle">
-
-              Computer Science & Data Analytics student at
-              <strong>IIT Patna</strong>,
-              Research Intern at
-              <strong>ISRO–IIRS, Dehradun</strong>,
-              exploring the intersection of
-              <strong>AI, Earth Observation, Geospatial Intelligence and Space Technology.</strong>
-
-            </p>
-
-            <div class="hero-actions">
-
-              <a href="#research" class="btn btn-primary">
-                EXPLORE RESEARCH →
-              </a>
-
-              <a href="#contact" class="btn btn-secondary">
-                CONNECT WITH ME
-              </a>
-
+            <div class="hero-meta-item">
+              <div class="hero-meta-value">ISRO-IIRS</div>
+              <div class="hero-meta-label">Research</div>
             </div>
 
-            <div class="hero-meta">
-
-              <div class="meta-item">
-                <div class="meta-number">IIT PATNA</div>
-                <div class="meta-label">Computer Science & Data Analytics</div>
-              </div>
-
-              <div class="meta-item">
-                <div class="meta-number">ISRO–IIRS</div>
-                <div class="meta-label">Research Internship · 2025–2026</div>
-              </div>
-
-              <div class="meta-item">
-                <div class="meta-number">NASA</div>
-                <div class="meta-label">Space Apps Recognition</div>
-              </div>
-
+            <div class="hero-meta-item">
+              <div class="hero-meta-value">NASA SPACE APPS</div>
+              <div class="hero-meta-label">Global Recognition</div>
             </div>
 
           </div>
 
+        </div>
 
-          <!-- 3D EARTH -->
+        <div class="earth-wrapper reveal">
 
-          <div class="earth-wrapper reveal">
+          <canvas id="earthCanvas"></canvas>
 
-            <canvas id="earthCanvas"></canvas>
+          <div class="hud top">
+            <div class="hud-title">EARTH OBSERVATION NODE</div>
+            <div class="hud-value">STATUS: ONLINE</div>
+          </div>
 
-            <div class="earth-hud">
-
-              <div class="hud-title">
-                EARTH OBSERVATION NODE
-              </div>
-
-              <div class="hud-row">
-                <span>STATUS</span>
-                <span>ONLINE</span>
-              </div>
-
-              <div class="hud-row">
-                <span>DOMAIN</span>
-                <span>GEO-AI</span>
-              </div>
-
-              <div class="hud-row">
-                <span>PLATFORM</span>
-                <span>ISRO / NASA</span>
-              </div>
-
-              <div class="hud-row">
-                <span>MODE</span>
-                <span>RESEARCH</span>
-              </div>
-
-              <div class="hud-telemetry">
-                <div class="hud-title">Telemetry</div>
-                <div class="hud-row"><span>LATENCY</span><span id="tele-lat">-- ms</span></div>
-                <div class="hud-row"><span>CPU</span><span id="tele-cpu">-- %</span></div>
-                <div class="hud-row"><span>MEM</span><span id="tele-mem">-- %</span></div>
-              </div>
-
-            </div>
-
-            <div class="satellite-badge">
-              <span></span>
-              SATELLITE LINK · ACTIVE
-            </div>
-
+          <div class="hud bottom">
+            <div class="hud-title">GEO-AI / SPACE</div>
+            <div class="hud-value">TELEMETRY: ACTIVE</div>
           </div>
 
         </div>
@@ -2078,160 +2266,111 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          TRUST STRIP
-    ======================================================== -->
+    ====================================================== -->
 
     <div class="trust-strip">
+      <div class="container trust-items">
 
-      <div class="container">
+        <div class="trust-item">
+          <strong>IIT PATNA</strong>
+        </div>
 
-        <div class="trust-grid">
+        <div class="trust-item">
+          <strong>ISRO-IIRS</strong>
+        </div>
 
-          <div class="trust-item">
-            <small>Academic</small>
-            <strong>IIT PATNA</strong>
+        <div class="trust-item">
+          <strong>NASA SPACE APPS</strong>
+        </div>
+
+        <div class="trust-item">
+          <strong>AI × EARTH × SPACE</strong>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- =====================================================
+         IDENTITY
+    ====================================================== -->
+
+    <section id="identity">
+
+      <div class="container identity-grid">
+
+        <div class="profile-card glass reveal">
+
+          <div class="profile-core">
+            <div class="profile-initials">RR</div>
           </div>
 
-          <div class="trust-item">
-            <small>Research</small>
-            <strong>ISRO–IIRS</strong>
-          </div>
+          <div class="profile-info">
+            <div class="profile-name">
+              RISHABH RATHORE
+            </div>
 
-          <div class="trust-item">
-            <small>Global</small>
-            <strong>NASA SPACE APPS</strong>
-          </div>
-
-          <div class="trust-item">
-            <small>Focus</small>
-            <strong>AI × EARTH × SPACE</strong>
+            <div class="profile-role">
+              COMPUTER SCIENCE · AI · GEOAI · SPACE
+            </div>
           </div>
 
         </div>
 
-      </div>
+        <div class="reveal">
 
-    </div>
-
-
-    <!-- =======================================================
-         ABOUT
-    ======================================================== -->
-
-    <section id="about">
-
-      <div class="container">
-
-        <div class="about-grid">
-
-          <div class="profile-card glass reveal">
-
-            <div class="profile-grid"></div>
-
-            <div class="profile-orbit"></div>
-
-            <div class="profile-core"></div>
-
-            <div class="profile-content">
-
-              <div class="profile-name">
-                Rishabh Rathore
-              </div>
-
-              <div class="profile-role">
-                COMPUTER SCIENCE · AI · GEO-AI · SPACE TECHNOLOGY
-              </div>
-
-              <div class="profile-location">
-                📍 Kanpur, Uttar Pradesh · India
-              </div>
-
-            </div>
-
+          <div class="section-label">
+            IDENTITY
           </div>
 
+          <h2 class="section-title">
+            Building intelligence for
+            <span class="gradient-text">real-world systems.</span>
+          </h2>
 
-          <div class="about-copy reveal">
+          <p class="identity-copy">
+            I work at the intersection of computer science,
+            artificial intelligence, geospatial intelligence,
+            Earth observation and space technology.
+            My focus is on turning complex data into useful
+            systems, research workflows and technology with
+            measurable impact.
+          </p>
 
-            <span class="section-tag">
-              Identity
-            </span>
+          <div class="identity-highlights">
 
-            <h2 class="section-title">
-              Building technology
-              <span>for Earth & beyond.</span>
-            </h2>
+            <div class="identity-card">
+              <div class="identity-card-number">01</div>
 
-            <p>
-              Rishabh Rathore is a Computer Science and Data Analytics
-              student at IIT Patna with research experience at
-              ISRO–Indian Institute of Remote Sensing, Dehradun.
-            </p>
+              <h3>SPACE</h3>
 
-            <p>
-              His work explores AI/ML, geospatial data, remote sensing,
-              Earth observation, climate intelligence, computer vision,
-              full-stack development and space-oriented applications.
-            </p>
+              <p>
+                Earth observation, satellite systems,
+                remote sensing and space technology.
+              </p>
+            </div>
 
-            <p>
-              The objective is simple:
-              transform complex scientific data into intelligent,
-              useful and scalable technology.
-            </p>
+            <div class="identity-card">
+              <div class="identity-card-number">02</div>
 
-            <div class="identity-cards">
+              <h3>AI / ML</h3>
 
-              <div class="identity-card">
+              <p>
+                Machine learning, deep learning,
+                intelligent systems and data-driven research.
+              </p>
+            </div>
 
-                <div class="identity-icon">
-                  🛰️
-                </div>
+            <div class="identity-card">
+              <div class="identity-card-number">03</div>
 
-                <h4>SPACE</h4>
+              <h3>GEOAI</h3>
 
-                <p>
-                  Earth observation,
-                  satellite data and
-                  space technology.
-                </p>
-
-              </div>
-
-              <div class="identity-card">
-
-                <div class="identity-icon">
-                  🧠
-                </div>
-
-                <h4>AI / ML</h4>
-
-                <p>
-                  Machine learning,
-                  deep learning and
-                  intelligent systems.
-                </p>
-
-              </div>
-
-              <div class="identity-card">
-
-                <div class="identity-icon">
-                  🌍
-                </div>
-
-                <h4>GEO-AI</h4>
-
-                <p>
-                  Remote sensing,
-                  geospatial analytics
-                  and climate intelligence.
-                </p>
-
-              </div>
-
+              <p>
+                Geospatial intelligence, GIS,
+                Google Earth Engine and Earth analytics.
+              </p>
             </div>
 
           </div>
@@ -2242,124 +2381,94 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          RESEARCH
-    ======================================================== -->
+    ====================================================== -->
 
     <section id="research">
 
       <div class="container">
 
-        <div class="research-header reveal">
+        <div class="reveal">
 
-          <span class="section-tag">
-            Research Matrix
-          </span>
+          <div class="section-label">
+            RESEARCH DOMAINS
+          </div>
 
           <h2 class="section-title">
-            Where <span>science meets intelligence.</span>
+            Intelligence across
+            <span class="gradient-text">three frontiers.</span>
           </h2>
 
           <p class="section-description">
-            Research interests spanning artificial intelligence,
-            Earth observation, remote sensing, geospatial analytics,
-            environmental intelligence and space technology.
+            A multidisciplinary research direction connecting
+            artificial intelligence, Earth observation and
+            space technology.
           </p>
 
         </div>
-
 
         <div class="research-grid">
 
-          <article class="research-card glass reveal">
+          <article class="research-card reveal">
 
-            <div class="research-number">
-              01 / AI
-            </div>
+            <div class="research-index">DOMAIN 01</div>
 
-            <div class="research-icon">
-              🧠
-            </div>
-
-            <h3>
-              Artificial Intelligence
-            </h3>
+            <h3>ARTIFICIAL INTELLIGENCE</h3>
 
             <p>
-              Designing machine-learning and deep-learning
-              systems for scientific and real-world problems.
+              Designing machine learning and deep learning
+              systems for complex data, prediction,
+              automation and intelligent decision support.
             </p>
 
-            <div class="tag-list">
-
-              <span class="tag">Python</span>
-              <span class="tag">TensorFlow</span>
-              <span class="tag">PyTorch</span>
-              <span class="tag">Deep Learning</span>
-
+            <div class="tags">
+              <span class="tag">PYTHON</span>
+              <span class="tag">TENSORFLOW</span>
+              <span class="tag">PYTORCH</span>
+              <span class="tag">DEEP LEARNING</span>
             </div>
 
           </article>
 
+          <article class="research-card reveal">
 
-          <article class="research-card glass reveal">
+            <div class="research-index">DOMAIN 02</div>
 
-            <div class="research-number">
-              02 / GEO
-            </div>
-
-            <div class="research-icon">
-              🌍
-            </div>
-
-            <h3>
-              Geospatial Intelligence
-            </h3>
+            <h3>GEOSPATIAL INTELLIGENCE</h3>
 
             <p>
-              Extracting meaningful patterns from satellite,
-              GIS and Earth observation datasets.
+              Combining spatial data, satellite imagery,
+              remote sensing and machine learning to understand
+              environmental and geographic systems.
             </p>
 
-            <div class="tag-list">
-
+            <div class="tags">
               <span class="tag">GIS</span>
-              <span class="tag">Google Earth Engine</span>
-              <span class="tag">Remote Sensing</span>
-              <span class="tag">GeoAI</span>
-
+              <span class="tag">GEE</span>
+              <span class="tag">REMOTE SENSING</span>
+              <span class="tag">GEOAI</span>
             </div>
 
           </article>
 
+          <article class="research-card reveal">
 
-          <article class="research-card glass reveal">
+            <div class="research-index">DOMAIN 03</div>
 
-            <div class="research-number">
-              03 / SPACE
-            </div>
-
-            <div class="research-icon">
-              🛰️
-            </div>
-
-            <h3>
-              Space Technology
-            </h3>
+            <h3>SPACE TECHNOLOGY</h3>
 
             <p>
-              Exploring satellite systems, Earth observation,
-              space applications and data-driven planetary research.
+              Exploring Earth observation, satellite missions,
+              SAR technologies and data-driven approaches
+              for understanding our planet.
             </p>
 
-            <div class="tag-list">
-
+            <div class="tags">
               <span class="tag">EO</span>
               <span class="tag">SAR</span>
               <span class="tag">NISAR</span>
-              <span class="tag">Sentinel</span>
-
+              <span class="tag">SENTINEL</span>
             </div>
 
           </article>
@@ -2370,222 +2479,169 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          PROJECTS
-    ======================================================== -->
+    ====================================================== -->
 
-    <section id="projects">
+    <section class="projects" id="projects">
 
       <div class="container">
 
-        <div class="projects-header reveal">
+        <div class="reveal">
 
-          <div>
-
-            <span class="section-tag">
-              Selected Projects
-            </span>
-
-            <h2 class="section-title">
-              Engineering the
-              <span>future.</span>
-            </h2>
-
+          <div class="section-label">
+            SELECTED PROJECTS
           </div>
 
+          <h2 class="section-title">
+            From concepts to
+            <span class="gradient-text">systems.</span>
+          </h2>
+
           <p class="section-description">
-            A selection of scientific, AI, geospatial and
-            software engineering projects.
+            Research-oriented and engineering projects
+            focused on AI, Earth observation, visualization
+            and intelligent applications.
           </p>
 
         </div>
 
+        <div class="project-list">
 
-        <div class="projects-grid">
+          <article class="project-card reveal">
 
-          <!-- PROJECT 01 -->
+            <div class="project-number">01</div>
 
-          <article class="project-card glass reveal">
+            <div>
+              <h3 class="project-title">
+                AI-Powered Flood Forecasting & Disaster Response
+              </h3>
 
-            <div class="project-number">
-              PROJECT 01 · GEO-AI
+              <p class="project-description">
+                A proposed multi-temporal satellite-data
+                intelligence system for flood monitoring,
+                forecasting and disaster-response support
+                across the Ganga-Brahmaputra Basin.
+              </p>
+
+              <div class="tags">
+                <span class="tag">NISAR SAR</span>
+                <span class="tag">SENTINEL-1</span>
+                <span class="tag">U-NET</span>
+                <span class="tag">LSTM</span>
+                <span class="tag">TRANSFORMERS</span>
+              </div>
             </div>
 
-            <h3>
-              AI-Powered Flood Forecasting &
-              Disaster Response System
-            </h3>
-
-            <p>
-              A proposed multi-temporal satellite-data
-              intelligence system for flood forecasting
-              and disaster response across the
-              Ganga–Brahmaputra Basin.
-            </p>
-
-            <div class="tag-list">
-
-              <span class="tag">NISAR SAR</span>
-              <span class="tag">Sentinel-1</span>
-              <span class="tag">U-Net</span>
-              <span class="tag">LSTM</span>
-              <span class="tag">Transformers</span>
-
-            </div>
-
-            <div class="project-visual"></div>
-
-            <div class="project-footer">
-
-              <span class="project-type">
-                Research Concept
-              </span>
-
-              <a href="#contact" class="project-link">
-                ↗
-              </a>
-
-            </div>
+            <a
+              href="#contact"
+              class="project-link"
+              aria-label="Discuss project"
+            >
+              →
+            </a>
 
           </article>
 
+          <article class="project-card reveal">
 
-          <!-- PROJECT 02 -->
+            <div class="project-number">02</div>
 
-          <article class="project-card glass reveal">
+            <div>
+              <h3 class="project-title">
+                India GPP / NPP Intelligence System
+              </h3>
 
-            <div class="project-number">
-              PROJECT 02 · EARTH INTELLIGENCE
+              <p class="project-description">
+                A machine-learning workflow for estimating
+                vegetation productivity using satellite,
+                climatic and environmental variables across
+                Indian districts.
+              </p>
+
+              <div class="tags">
+                <span class="tag">GEE</span>
+                <span class="tag">NDVI</span>
+                <span class="tag">LST</span>
+                <span class="tag">LAI</span>
+                <span class="tag">GPP / NPP</span>
+              </div>
             </div>
 
-            <h3>
-              India GPP / NPP
-              Intelligence System
-            </h3>
-
-            <p>
-              Machine-learning workflow for analysing
-              vegetation productivity using satellite,
-              climatic and environmental variables
-              across Indian districts.
-            </p>
-
-            <div class="tag-list">
-
-              <span class="tag">GEE</span>
-              <span class="tag">NDVI</span>
-              <span class="tag">LST</span>
-              <span class="tag">LAI</span>
-              <span class="tag">GPP/NPP</span>
-
-            </div>
-
-            <div class="project-visual"></div>
-
-            <div class="project-footer">
-
-              <span class="project-type">
-                Geo-AI Research
-              </span>
-
-              <a href="#contact" class="project-link">
-                ↗
-              </a>
-
-            </div>
+            <a
+              href="#contact"
+              class="project-link"
+              aria-label="Discuss project"
+            >
+              →
+            </a>
 
           </article>
 
+          <article class="project-card reveal">
 
-          <!-- PROJECT 03 -->
+            <div class="project-number">03</div>
 
-          <article class="project-card glass reveal">
+            <div>
+              <h3 class="project-title">
+                AI Powered Voice Based Desktop Assistant
+              </h3>
 
-            <div class="project-number">
-              PROJECT 03 · IIT PATNA
+              <p class="project-description">
+                IIT Patna Capstone-II project combining
+                desktop application development, voice
+                interaction, APIs and local data management.
+              </p>
+
+              <div class="tags">
+                <span class="tag">ELECTRON</span>
+                <span class="tag">REACT</span>
+                <span class="tag">TAILWIND</span>
+                <span class="tag">FASTAPI</span>
+                <span class="tag">SQLITE</span>
+              </div>
             </div>
 
-            <h3>
-              AI Powered Voice Based
-              Desktop Assistant
-            </h3>
-
-            <p>
-              An intelligent desktop assistant developed
-              as an IIT Patna Capstone-II project using
-              a modern desktop interface and Python backend.
-            </p>
-
-            <div class="tag-list">
-
-              <span class="tag">Electron</span>
-              <span class="tag">React</span>
-              <span class="tag">Tailwind</span>
-              <span class="tag">FastAPI</span>
-              <span class="tag">SQLite</span>
-
-            </div>
-
-            <div class="project-visual"></div>
-
-            <div class="project-footer">
-
-              <span class="project-type">
-                Software Engineering
-              </span>
-
-              <a href="#contact" class="project-link">
-                ↗
-              </a>
-
-            </div>
+            <a
+              href="#contact"
+              class="project-link"
+              aria-label="Discuss project"
+            >
+              →
+            </a>
 
           </article>
 
+          <article class="project-card reveal">
 
-          <!-- PROJECT 04 -->
+            <div class="project-number">04</div>
 
-          <article class="project-card glass reveal">
+            <div>
+              <h3 class="project-title">
+                NE-AR Naturalists Explorer
+              </h3>
 
-            <div class="project-number">
-              PROJECT 04 · NASA SPACE APPS
+              <p class="project-description">
+                NASA Space Apps project exploring augmented
+                reality, environmental storytelling and
+                climate-focused visualization.
+              </p>
+
+              <div class="tags">
+                <span class="tag">AR</span>
+                <span class="tag">CLIMATE</span>
+                <span class="tag">NASA</span>
+                <span class="tag">VISUALIZATION</span>
+              </div>
             </div>
 
-            <h3>
-              NE–AR
-              Naturalists Explorer
-            </h3>
-
-            <p>
-              An augmented-reality and climate-awareness
-              concept created for NASA Space Apps,
-              combining environmental storytelling,
-              technology and immersive visualization.
-            </p>
-
-            <div class="tag-list">
-
-              <span class="tag">AR</span>
-              <span class="tag">Climate</span>
-              <span class="tag">NASA</span>
-              <span class="tag">Visualization</span>
-
-            </div>
-
-            <div class="project-visual"></div>
-
-            <div class="project-footer">
-
-              <span class="project-type">
-                Global Space Challenge
-              </span>
-
-              <a href="#contact" class="project-link">
-                ↗
-              </a>
-
-            </div>
+            <a
+              href="#contact"
+              class="project-link"
+              aria-label="Discuss project"
+            >
+              →
+            </a>
 
           </article>
 
@@ -2595,37 +2651,35 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          AI VISUALIZATION
-    ======================================================== -->
+    ====================================================== -->
 
-    <section class="ai-section">
+    <section>
 
       <div class="container">
 
-        <div class="ai-panel glass reveal">
+        <div class="ai-visual glass reveal">
 
-          <canvas id="neuralCanvas"></canvas>
+          <div class="ai-copy">
 
-          <div class="ai-content">
-
-            <span class="section-tag">
-              Intelligence Layer
-            </span>
+            <div class="section-label">
+              INTELLIGENCE LAYER
+            </div>
 
             <h2>
               DATA.
-              <br>
-              <span>INTELLIGENCE.</span>
-              <br>
-              IMPACT.
+              <br />
+              INTELLIGENCE.
+              <br />
+              <span class="gradient-text">IMPACT.</span>
             </h2>
 
             <p>
-              Turning raw information into meaningful
-              intelligence through computational thinking,
-              machine learning and scientific analysis.
+              The goal is not simply to process data.
+              It is to transform data into intelligence,
+              intelligence into understanding, and
+              understanding into useful technology.
             </p>
 
             <div class="ai-stats">
@@ -2642,11 +2696,15 @@
 
               <div class="ai-stat">
                 <strong>GEO</strong>
-                <span>Spatial Intelligence</span>
+                <span>Geospatial</span>
               </div>
 
             </div>
 
+          </div>
+
+          <div class="neural-wrap">
+            <canvas id="neuralCanvas"></canvas>
           </div>
 
         </div>
@@ -2655,10 +2713,9 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          JOURNEY
-    ======================================================== -->
+    ====================================================== -->
 
     <section id="journey">
 
@@ -2666,16 +2723,22 @@
 
         <div class="reveal">
 
-          <span class="section-tag">
-            Mission Timeline
-          </span>
+          <div class="section-label">
+            JOURNEY
+          </div>
 
           <h2 class="section-title">
-            The <span>journey.</span>
+            Learning. Researching.
+            <span class="gradient-text">Building.</span>
           </h2>
 
-        </div>
+          <p class="section-description">
+            A continuous journey across computer science,
+            geospatial technology, artificial intelligence
+            and space research.
+          </p>
 
+        </div>
 
         <div class="timeline">
 
@@ -2683,122 +2746,89 @@
 
             <span class="timeline-dot"></span>
 
-            <div class="timeline-card glass">
+            <div class="timeline-year">2023</div>
 
-              <div class="timeline-year">
-                2023
-              </div>
+            <h3 class="timeline-title">
+              IIT PATNA
+            </h3>
 
-              <h3>
-                IIT Patna
-              </h3>
-
-              <p>
-                Began the academic journey in Computer
-                Science & Data Analytics at IIT Patna.
-              </p>
-
-            </div>
+            <p class="timeline-description">
+              Began the Computer Science & Data Analytics
+              journey with a focus on computational thinking,
+              programming and data-driven problem solving.
+            </p>
 
           </div>
-
 
           <div class="timeline-item reveal">
 
             <span class="timeline-dot"></span>
 
-            <div class="timeline-card glass">
+            <div class="timeline-year">2024</div>
 
-              <div class="timeline-year">
-                2024
-              </div>
+            <h3 class="timeline-title">
+              GEOSPATIAL & NASA EXPLORATION
+            </h3>
 
-              <h3>
-                Geospatial & NASA Exploration
-              </h3>
-
-              <p>
-                Developed interests across AI, remote sensing,
-                Earth observation and participated in
-                NASA Space Apps-related global activities.
-              </p>
-
-            </div>
+            <p class="timeline-description">
+              Expanded into geospatial technologies,
+              Earth observation, environmental applications
+              and NASA Space Apps exploration.
+            </p>
 
           </div>
-
 
           <div class="timeline-item reveal">
 
             <span class="timeline-dot"></span>
 
-            <div class="timeline-card glass">
+            <div class="timeline-year">2025</div>
 
-              <div class="timeline-year">
-                2025
-              </div>
+            <h3 class="timeline-title">
+              ISRO-IIRS RESEARCH
+            </h3>
 
-              <h3>
-                ISRO–IIRS Research
-              </h3>
-
-              <p>
-                Joined ISRO–Indian Institute of Remote Sensing,
-                Dehradun, for research work involving geospatial
-                processing, remote sensing and AI.
-              </p>
-
-            </div>
+            <p class="timeline-description">
+              Entered research work involving remote sensing,
+              Earth observation, geospatial intelligence
+              and satellite-derived information.
+            </p>
 
           </div>
-
 
           <div class="timeline-item reveal">
 
             <span class="timeline-dot"></span>
 
-            <div class="timeline-card glass">
+            <div class="timeline-year">2025 — 2026</div>
 
-              <div class="timeline-year">
-                2025–2026
-              </div>
+            <h3 class="timeline-title">
+              RESEARCH × SPACE × AI
+            </h3>
 
-              <h3>
-                Research × Space × AI
-              </h3>
-
-              <p>
-                Worked on computational approaches to
-                Earth observation, environmental intelligence
-                and AI-driven geospatial research.
-              </p>
-
-            </div>
+            <p class="timeline-description">
+              Building projects that connect machine learning,
+              satellite data, geospatial analysis and
+              intelligent systems.
+            </p>
 
           </div>
-
 
           <div class="timeline-item reveal">
 
             <span class="timeline-dot"></span>
 
-            <div class="timeline-card glass">
+            <div class="timeline-year">FUTURE</div>
 
-              <div class="timeline-year">
-                FUTURE
-              </div>
+            <h3 class="timeline-title">
+              BEYOND THE HORIZON
+            </h3>
 
-              <h3>
-                Beyond the Horizon
-              </h3>
-
-              <p>
-                Continuing toward advanced research,
-                intelligent systems, space technology
-                and globally impactful scientific innovation.
-              </p>
-
-            </div>
+            <p class="timeline-description">
+              Continuing toward advanced research and
+              technology at the intersection of AI,
+              Earth systems and space.
+            </p>
 
           </div>
 
@@ -2808,10 +2838,9 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          SKILLS
-    ======================================================== -->
+    ====================================================== -->
 
     <section id="skills">
 
@@ -2819,142 +2848,145 @@
 
         <div class="reveal">
 
-          <span class="section-tag">
-            Technical Arsenal
-          </span>
+          <div class="section-label">
+            TECHNICAL STACK
+          </div>
 
           <h2 class="section-title">
-            Tools to <span>build with.</span>
+            Tools for
+            <span class="gradient-text">building.</span>
           </h2>
+
+          <p class="section-description">
+            A technical toolkit spanning programming,
+            machine learning, geospatial analysis and
+            modern web development.
+          </p>
 
         </div>
 
-
         <div class="skills-grid">
 
-          <div class="skill-category reveal">
+          <div class="reveal">
 
-            <h3>
+            <h3 class="skill-group-title">
               PROGRAMMING & AI
             </h3>
 
             <div class="skill">
-
-              <div class="skill-top">
-                <span>Python</span>
-                <span>Advanced</span>
+              <div class="skill-header">
+                <span class="skill-name">Python</span>
+                <span class="skill-level">Advanced · 92%</span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="92%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="92"></div>
               </div>
-
             </div>
 
-
             <div class="skill">
-
-              <div class="skill-top">
-                <span>C++</span>
-                <span>Advanced</span>
+              <div class="skill-header">
+                <span class="skill-name">C++</span>
+                <span class="skill-level">Advanced · 86%</span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="86%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="86"></div>
               </div>
-
             </div>
 
-
             <div class="skill">
-
-              <div class="skill-top">
-                <span>Machine Learning</span>
-                <span>Advanced</span>
+              <div class="skill-header">
+                <span class="skill-name">Machine Learning</span>
+                <span class="skill-level">Advanced · 88%</span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="88%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="88"></div>
               </div>
-
             </div>
 
-
             <div class="skill">
-
-              <div class="skill-top">
-                <span>Deep Learning</span>
-                <span>Advanced</span>
+              <div class="skill-header">
+                <span class="skill-name">Deep Learning</span>
+                <span class="skill-level">Advanced · 84%</span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="84%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="84"></div>
               </div>
-
             </div>
 
           </div>
 
+          <div class="reveal">
 
-          <div class="skill-category reveal">
-
-            <h3>
+            <h3 class="skill-group-title">
               GEO / WEB / DATA
             </h3>
 
             <div class="skill">
+              <div class="skill-header">
+                <span class="skill-name">
+                  Google Earth Engine
+                </span>
 
-              <div class="skill-top">
-                <span>Google Earth Engine</span>
-                <span>Advanced</span>
+                <span class="skill-level">
+                  Advanced · 90%
+                </span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="90%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="90"></div>
               </div>
-
             </div>
 
-
             <div class="skill">
+              <div class="skill-header">
+                <span class="skill-name">
+                  Remote Sensing
+                </span>
 
-              <div class="skill-top">
-                <span>Remote Sensing</span>
-                <span>Advanced</span>
+                <span class="skill-level">
+                  Advanced · 88%
+                </span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="88%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="88"></div>
               </div>
-
             </div>
 
-
             <div class="skill">
+              <div class="skill-header">
+                <span class="skill-name">
+                  React / JavaScript
+                </span>
 
-              <div class="skill-top">
-                <span>React / JavaScript</span>
-                <span>Advanced</span>
+                <span class="skill-level">
+                  Advanced · 85%
+                </span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="85%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="85"></div>
               </div>
-
             </div>
 
-
             <div class="skill">
+              <div class="skill-header">
+                <span class="skill-name">
+                  GIS / Geospatial Analysis
+                </span>
 
-              <div class="skill-top">
-                <span>GIS / Geospatial Analysis</span>
-                <span>Advanced</span>
+                <span class="skill-level">
+                  Advanced · 87%
+                </span>
               </div>
 
-              <div class="skill-bar">
-                <div class="skill-progress" data-width="87%"></div>
+              <div class="skill-track">
+                <div class="skill-bar" data-width="87"></div>
               </div>
-
             </div>
 
           </div>
@@ -2965,10 +2997,9 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          ACHIEVEMENTS
-    ======================================================== -->
+    ====================================================== -->
 
     <section>
 
@@ -2976,89 +3007,61 @@
 
         <div class="reveal">
 
-          <span class="section-tag">
-            Recognition
-          </span>
+          <div class="section-label">
+            RECOGNITION
+          </div>
 
           <h2 class="section-title">
-            Milestones & <span>achievements.</span>
+            Milestones that
+            <span class="gradient-text">matter.</span>
           </h2>
 
         </div>
 
-
         <div class="achievement-grid">
 
-          <article class="achievement glass reveal">
+          <article class="achievement reveal">
+            <div class="achievement-index">01</div>
 
-            <div class="achievement-icon">
-              🚀
-            </div>
-
-            <h3>
-              NASA Space Apps
-            </h3>
+            <h3>NASA SPACE APPS</h3>
 
             <p>
-              Global recognition through NASA Space Apps
-              participation and project work.
+              Participation in NASA's global innovation
+              and problem-solving ecosystem.
             </p>
-
           </article>
 
+          <article class="achievement reveal">
+            <div class="achievement-index">02</div>
 
-          <article class="achievement glass reveal">
-
-            <div class="achievement-icon">
-              🌎
-            </div>
-
-            <h3>
-              Galactic Problem Solver
-            </h3>
+            <h3>GALACTIC PROBLEM SOLVER</h3>
 
             <p>
-              Recognized through NASA Space Apps
-              achievement for innovative problem solving.
+              Recognition associated with NASA Space Apps
+              project participation.
             </p>
-
           </article>
 
+          <article class="achievement reveal">
+            <div class="achievement-index">03</div>
 
-          <article class="achievement glass reveal">
-
-            <div class="achievement-icon">
-              🛰️
-            </div>
-
-            <h3>
-              ISRO–IIRS Research
-            </h3>
+            <h3>ISRO-IIRS RESEARCH</h3>
 
             <p>
-              Completed a one-year research internship /
-              project experience at ISRO–IIRS, Dehradun.
+              Research experience in Earth observation,
+              remote sensing and geospatial technology.
             </p>
-
           </article>
 
+          <article class="achievement reveal">
+            <div class="achievement-index">04</div>
 
-          <article class="achievement glass reveal">
-
-            <div class="achievement-icon">
-              🧪
-            </div>
-
-            <h3>
-              Young Scientist
-            </h3>
+            <h3>YOUNG SCIENTIST</h3>
 
             <p>
-              Building a research-oriented profile at the
-              intersection of computing, Earth observation
-              and space technology.
+              A research-oriented journey focused on
+              science, technology and innovation.
             </p>
-
           </article>
 
         </div>
@@ -3067,63 +3070,56 @@
 
     </section>
 
-
-    <!-- =======================================================
+    <!-- =====================================================
          CONTACT
-    ======================================================== -->
+    ====================================================== -->
 
-    <section id="contact">
+    <section class="contact-section" id="contact">
 
       <div class="container">
 
-        <div class="contact-panel glass reveal">
+        <div class="contact-card reveal">
 
-          <span class="section-tag">
-            Establish Connection
-          </span>
+          <div class="section-label">
+            OPEN CHANNEL
+          </div>
 
           <h2>
             Let's build
-            <span>what's next.</span>
+            <span class="gradient-text">what's next.</span>
           </h2>
 
           <p>
-            Interested in AI, Earth observation, geospatial
-            intelligence, space technology, research,
-            software engineering or meaningful collaborations?
+            Research collaboration, technical projects,
+            geospatial intelligence, AI systems or
+            space-technology ideas — let's connect.
           </p>
 
           <div class="contact-actions">
 
-            <!-- Replace email -->
-
-            <a
-              href="mailto:your-email@example.com"
+            <button
               class="btn btn-primary"
+              id="emailButton"
             >
-              ✉ SEND EMAIL
-            </a>
-
-            <!-- Replace GitHub -->
+              Copy Email
+            </button>
 
             <a
               href="https://github.com/"
               target="_blank"
-              rel="noopener"
+              rel="noopener noreferrer"
               class="btn btn-secondary"
             >
-              GITHUB ↗
+              GitHub
             </a>
-
-            <!-- Replace LinkedIn -->
 
             <a
               href="https://www.linkedin.com/"
               target="_blank"
-              rel="noopener"
+              rel="noopener noreferrer"
               class="btn btn-secondary"
             >
-              LINKEDIN ↗
+              LinkedIn
             </a>
 
           </div>
@@ -3136,200 +3132,284 @@
 
   </main>
 
-
-  <!-- =========================================================
+  <!-- =======================================================
        FOOTER
-  ========================================================== -->
-  <!-- Resume / Contact Modal -->
-  <div id="modalResume" class="modal" aria-hidden="true">
-    <div class="modal-backdrop" id="modalBackdrop"></div>
-    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-      <button class="modal-close" id="modalClose" aria-label="Close">✕</button>
-      <h3 id="modalTitle">Quick Resume & Contact</h3>
-      <p>Open the resume page or copy contact details to clipboard.</p>
-      <div class="modal-actions">
-        <a href="index1.html" class="btn btn-primary" target="_blank">Open Resume →</a>
-        <button class="btn btn-secondary" id="copyEmail">Copy Email</button>
-      </div>
-    </div>
-  </div>
+  ======================================================== -->
 
   <footer>
 
-    <div class="container">
+    <div class="container footer-inner">
 
-      <div class="footer-inner">
+      <div class="footer-brand">
+        RISHABH RATHORE
+      </div>
 
-        <div class="footer-brand">
-          RISHABH<span>RATHORE</span>
-        </div>
+      <div class="footer-text">
+        Built with curiosity, code & science.
+      </div>
 
-        <div class="footer-copy">
-          © <span id="year"></span> Rishabh Rathore.
-          Built with curiosity, code & science.
-        </div>
-
+      <div class="footer-text">
+        © <span id="year"></span>
       </div>
 
     </div>
 
   </footer>
 
+  <!-- =======================================================
+       RESUME / CONTACT MODAL
+  ======================================================== -->
 
-  <!-- =========================================================
-       JAVASCRIPT
-  ========================================================== -->
+  <div
+    class="modal"
+    id="contactModal"
+    aria-hidden="true"
+  >
+
+    <div
+      class="modal-box"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modalTitle"
+    >
+
+      <button
+        class="modal-close"
+        id="modalClose"
+        aria-label="Close"
+      >
+        ×
+      </button>
+
+      <div class="modal-label">
+        CONTACT CHANNEL
+      </div>
+
+      <h3 id="modalTitle">
+        Let's connect.
+      </h3>
+
+      <p>
+        Replace the email address in the JavaScript section
+        with your actual professional email before publishing
+        the site.
+      </p>
+
+      <div class="contact-actions">
+
+        <button
+          class="btn btn-primary"
+          id="modalCopyEmail"
+        >
+          Copy Email
+        </button>
+
+        <a
+          href="#contact"
+          class="btn btn-secondary"
+          id="modalContinue"
+        >
+          Continue
+        </a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- =======================================================
+       THREE.JS
+  ======================================================== -->
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js"
+    }
+  }
+  </script>
 
   <script type="module">
 
     import * as THREE from "three";
 
-    /* =========================================================
+    /* =======================================================
+       CONFIGURATION
+    ======================================================== */
+
+    const CONFIG = {
+      email: "your-email@example.com"
+    };
+
+    /* =======================================================
        LOADER
-    ========================================================= */
+    ======================================================== */
 
-    window.addEventListener("load", () => {
+    const loader = document.getElementById("loader");
+    const loaderProgress = document.getElementById("loaderProgress");
 
-      setTimeout(() => {
+    let loaderValue = 0;
 
-        document
-          .getElementById("loader")
-          .classList.add("hide");
+    const loaderTimer = setInterval(() => {
 
-      }, 900);
+      loaderValue += Math.random() * 10;
 
-    });
+      if (loaderValue >= 100) {
+        loaderValue = 100;
+        clearInterval(loaderTimer);
 
+        setTimeout(() => {
+          loader.classList.add("hide");
+        }, 350);
+      }
 
-    /* =========================================================
+      loaderProgress.style.width = `${loaderValue}%`;
+
+    }, 80);
+
+    /* =======================================================
        YEAR
-    ========================================================= */
+    ======================================================== */
 
     document.getElementById("year").textContent =
       new Date().getFullYear();
 
-
-    /* =========================================================
-       NAVBAR
-    ========================================================= */
+    /* =======================================================
+       NAVIGATION
+    ======================================================== */
 
     const navbar = document.getElementById("navbar");
+    const navLinks = document.getElementById("navLinks");
+    const mobileToggle = document.getElementById("mobileToggle");
+    const mobileIcon = document.getElementById("mobileIcon");
 
-    window.addEventListener("scroll", () => {
+    window.addEventListener(
+      "scroll",
+      () => {
+        navbar.classList.toggle(
+          "scrolled",
+          window.scrollY > 30
+        );
+      },
+      { passive: true }
+    );
 
-      if (window.scrollY > 40) {
-        navbar.classList.add("scrolled");
-      } else {
-        navbar.classList.remove("scrolled");
-      }
+    mobileToggle.addEventListener("click", () => {
+
+      const open = navLinks.classList.toggle("open");
+
+      mobileToggle.setAttribute(
+        "aria-expanded",
+        open ? "true" : "false"
+      );
+
+      mobileIcon.textContent = open ? "×" : "+";
 
     });
 
+    navLinks.querySelectorAll("a").forEach(link => {
 
-    /* =========================================================
-       MOBILE MENU
-    ========================================================= */
+      link.addEventListener("click", () => {
 
-    const menuBtn =
-      document.getElementById("menuBtn");
+        navLinks.classList.remove("open");
 
-    const navLinks =
-      document.getElementById("navLinks");
+        mobileToggle.setAttribute(
+          "aria-expanded",
+          "false"
+        );
 
-    menuBtn.addEventListener("click", () => {
-
-      navLinks.classList.toggle("open");
-
-    });
-
-    document.querySelectorAll(".nav-links a")
-      .forEach(link => {
-
-        link.addEventListener("click", () => {
-
-          navLinks.classList.remove("open");
-
-        });
+        mobileIcon.textContent = "+";
 
       });
 
-
-    /* =========================================================
-       CURSOR GLOW
-    ========================================================= */
-
-    const cursor =
-      document.querySelector(".cursor-glow");
-
-    window.addEventListener("mousemove", e => {
-
-      cursor.style.left = e.clientX + "px";
-      cursor.style.top = e.clientY + "px";
-
     });
 
+    /* =======================================================
+       CURSOR GLOW
+    ======================================================== */
 
-    /* =========================================================
+    const cursorGlow =
+      document.getElementById("cursorGlow");
+
+    window.addEventListener(
+      "pointermove",
+      event => {
+
+        cursorGlow.style.left = `${event.clientX}px`;
+        cursorGlow.style.top = `${event.clientY}px`;
+        cursorGlow.style.opacity = "1";
+
+      },
+      { passive: true }
+    );
+
+    /* =======================================================
        STARFIELD
-    ========================================================= */
+    ======================================================== */
 
-    const starCanvas =
-      document.getElementById("stars");
+    const starsCanvas =
+      document.getElementById("starsCanvas");
 
     const starCtx =
-      starCanvas.getContext("2d");
+      starsCanvas.getContext("2d");
 
     let stars = [];
+    let starWidth = 0;
+    let starHeight = 0;
 
     function resizeStars() {
 
-      starCanvas.width =
-        window.innerWidth * devicePixelRatio;
-
-      starCanvas.height =
-        window.innerHeight * devicePixelRatio;
-
-      starCanvas.style.width =
-        window.innerWidth + "px";
-
-      starCanvas.style.height =
-        window.innerHeight + "px";
-
-      starCtx.scale(
-        devicePixelRatio,
-        devicePixelRatio
+      const dpr = Math.min(
+        window.devicePixelRatio || 1,
+        2
       );
 
-      stars = [];
+      starWidth = window.innerWidth;
+      starHeight = window.innerHeight;
+
+      starsCanvas.width =
+        starWidth * dpr;
+
+      starsCanvas.height =
+        starHeight * dpr;
+
+      starsCanvas.style.width =
+        `${starWidth}px`;
+
+      starsCanvas.style.height =
+        `${starHeight}px`;
+
+      starCtx.setTransform(
+        dpr,
+        0,
+        0,
+        dpr,
+        0,
+        0
+      );
 
       const count =
         Math.min(
-          260,
-          Math.floor(
-            window.innerWidth *
-            window.innerHeight / 7000
+          240,
+          Math.max(
+            100,
+            Math.floor(
+              (starWidth * starHeight) / 7000
+            )
           )
         );
 
-      for (let i = 0; i < count; i++) {
-
-        stars.push({
-
-          x: Math.random() * window.innerWidth,
-          y: Math.random() * window.innerHeight,
-
-          size: Math.random() * 1.5 + .2,
-
-          speed:
-            Math.random() * .15 + .03,
-
-          alpha:
-            Math.random() * .7 + .2
-
-        });
-
-      }
-
+      stars = Array.from(
+        { length: count },
+        () => ({
+          x: Math.random() * starWidth,
+          y: Math.random() * starHeight,
+          r: Math.random() * 1.4 + .2,
+          a: Math.random() * .7 + .15,
+          s: Math.random() * .25 + .05
+        })
+      );
     }
 
     function animateStars() {
@@ -3337,17 +3417,17 @@
       starCtx.clearRect(
         0,
         0,
-        window.innerWidth,
-        window.innerHeight
+        starWidth,
+        starHeight
       );
 
-      stars.forEach(star => {
+      for (const star of stars) {
 
-        star.y += star.speed;
+        star.y += star.s;
 
-        if (star.y > window.innerHeight) {
-          star.y = 0;
-          star.x = Math.random() * window.innerWidth;
+        if (star.y > starHeight) {
+          star.y = -3;
+          star.x = Math.random() * starWidth;
         }
 
         starCtx.beginPath();
@@ -3355,20 +3435,18 @@
         starCtx.arc(
           star.x,
           star.y,
-          star.size,
+          star.r,
           0,
           Math.PI * 2
         );
 
         starCtx.fillStyle =
-          `rgba(180,230,255,${star.alpha})`;
+          `rgba(180,230,255,${star.a})`;
 
         starCtx.fill();
-
-      });
+      }
 
       requestAnimationFrame(animateStars);
-
     }
 
     resizeStars();
@@ -3379,27 +3457,12 @@
       resizeStars
     );
 
-
-    /* =========================================================
+    /* =======================================================
        THREE.JS EARTH
-    ========================================================== */
+    ======================================================== */
 
     const earthCanvas =
       document.getElementById("earthCanvas");
-
-    const earthScene =
-      new THREE.Scene();
-
-    const earthCamera =
-      new THREE.PerspectiveCamera(
-        45,
-        earthCanvas.clientWidth /
-        earthCanvas.clientHeight,
-        .1,
-        100
-      );
-
-    earthCamera.position.z = 3.4;
 
     const earthRenderer =
       new THREE.WebGLRenderer({
@@ -3412,10 +3475,21 @@
       Math.min(window.devicePixelRatio, 2)
     );
 
-    earthRenderer.setSize(
-      earthCanvas.clientWidth,
-      earthCanvas.clientHeight,
-      false
+    const earthScene =
+      new THREE.Scene();
+
+    const earthCamera =
+      new THREE.PerspectiveCamera(
+        38,
+        1,
+        .1,
+        100
+      );
+
+    earthCamera.position.set(
+      0,
+      0,
+      5
     );
 
     const earthGroup =
@@ -3423,29 +3497,42 @@
 
     earthScene.add(earthGroup);
 
+    const ambientLight =
+      new THREE.AmbientLight(
+        0x3d7cff,
+        1.3
+      );
 
-    /* Earth sphere */
+    earthScene.add(ambientLight);
+
+    const pointLight =
+      new THREE.PointLight(
+        0x00e5ff,
+        20,
+        15
+      );
+
+    pointLight.position.set(
+      4,
+      2,
+      5
+    );
+
+    earthScene.add(pointLight);
 
     const earthGeometry =
       new THREE.SphereGeometry(
-        1,
-        64,
-        64
+        1.65,
+        72,
+        72
       );
 
     const earthMaterial =
-      new THREE.MeshPhongMaterial({
-
-        color: 0x0b3150,
-
-        emissive: 0x001522,
-
-        shininess: 18,
-
+      new THREE.MeshBasicMaterial({
+        color: 0x10283b,
+        wireframe: true,
         transparent: true,
-
-        opacity: .96
-
+        opacity: .48
       });
 
     const earth =
@@ -3456,202 +3543,164 @@
 
     earthGroup.add(earth);
 
-
-    /* Earth wireframe */
-
-    const wire =
-      new THREE.Mesh(
-
-        new THREE.SphereGeometry(
-          1.012,
-          32,
-          32
-        ),
-
-        new THREE.MeshBasicMaterial({
-
-          color: 0x00eaff,
-
-          wireframe: true,
-
-          transparent: true,
-
-          opacity: .10
-
-        })
-
+    const innerGeometry =
+      new THREE.SphereGeometry(
+        1.54,
+        48,
+        48
       );
 
-    earthGroup.add(wire);
+    const innerMaterial =
+      new THREE.MeshBasicMaterial({
+        color: 0x06121d,
+        transparent: true,
+        opacity: .7
+      });
 
+    const innerEarth =
+      new THREE.Mesh(
+        innerGeometry,
+        innerMaterial
+      );
+
+    earthGroup.add(innerEarth);
 
     /* Atmosphere */
 
+    const atmosphereGeometry =
+      new THREE.SphereGeometry(
+        1.8,
+        64,
+        64
+      );
+
+    const atmosphereMaterial =
+      new THREE.MeshBasicMaterial({
+        color: 0x00e5ff,
+        transparent: true,
+        opacity: .055,
+        side: THREE.BackSide
+      });
+
     const atmosphere =
       new THREE.Mesh(
-
-        new THREE.SphereGeometry(
-          1.08,
-          64,
-          64
-        ),
-
-        new THREE.MeshBasicMaterial({
-
-          color: 0x00eaff,
-
-          transparent: true,
-
-          opacity: .045,
-
-          side: THREE.BackSide
-
-        })
-
+        atmosphereGeometry,
+        atmosphereMaterial
       );
 
     earthGroup.add(atmosphere);
 
-
-    /* Lights */
-
-    const ambient =
-      new THREE.AmbientLight(
-        0x446688,
-        1.5
-      );
-
-    earthScene.add(ambient);
-
-    const directional =
-      new THREE.DirectionalLight(
-        0x9fe8ff,
-        2.5
-      );
-
-    directional.position.set(
-      4,
-      3,
-      5
-    );
-
-    earthScene.add(directional);
-
-
     /* Orbit rings */
 
-    const orbitGroup =
-      new THREE.Group();
+    const ringMaterial =
+      new THREE.LineBasicMaterial({
+        color: 0x00e5ff,
+        transparent: true,
+        opacity: .25
+      });
 
-    earthGroup.add(orbitGroup);
+    const ring1 =
+      new THREE.Mesh(
+        new THREE.TorusGeometry(
+          2.1,
+          .006,
+          12,
+          160
+        ),
+        ringMaterial
+      );
 
-    for (let i = 0; i < 3; i++) {
+    ring1.rotation.x = .65;
+    ring1.rotation.y = .15;
 
-      const orbit =
-        new THREE.Mesh(
+    earthGroup.add(ring1);
 
-          new THREE.TorusGeometry(
-            1.4 + i * .16,
-            .006,
-            8,
-            160
-          ),
+    const ring2 =
+      new THREE.Mesh(
+        new THREE.TorusGeometry(
+          2.35,
+          .004,
+          12,
+          160
+        ),
+        new THREE.MeshBasicMaterial({
+          color: 0x8b5cf6,
+          transparent: true,
+          opacity: .2
+        })
+      );
 
-          new THREE.MeshBasicMaterial({
+    ring2.rotation.x = -.55;
+    ring2.rotation.z = .45;
 
-            color:
-              i === 0
-                ? 0x00eaff
-                : i === 1
-                ? 0xa855f7
-                : 0x00ff9d,
-
-            transparent: true,
-
-            opacity: .35
-
-          })
-
-        );
-
-      orbit.rotation.x =
-        Math.PI / 2.2 + i * .22;
-
-      orbit.rotation.z =
-        i * .7;
-
-      orbitGroup.add(orbit);
-
-    }
-
+    earthGroup.add(ring2);
 
     /* Satellite */
 
     const satellite =
       new THREE.Group();
 
-    const satBody =
+    const satelliteBody =
       new THREE.Mesh(
-
         new THREE.BoxGeometry(
           .12,
-          .08,
-          .08
+          .12,
+          .12
         ),
-
         new THREE.MeshBasicMaterial({
           color: 0xffffff
         })
-
       );
 
-    satellite.add(satBody);
+    satellite.add(satelliteBody);
 
     const panelMaterial =
       new THREE.MeshBasicMaterial({
-        color: 0x00eaff
+        color: 0x00e5ff
       });
 
     const panel1 =
       new THREE.Mesh(
         new THREE.BoxGeometry(
-          .18,
-          .005,
-          .07
+          .38,
+          .04,
+          .16
         ),
         panelMaterial
       );
 
+    panel1.position.x = .25;
+
     const panel2 =
       panel1.clone();
 
-    panel1.position.x = .15;
-    panel2.position.x = -.15;
+    panel2.position.x = -.25;
 
-    satellite.add(panel1);
-    satellite.add(panel2);
-
-    satellite.position.set(
-      1.4,
-      0,
-      0
+    satellite.add(
+      panel1,
+      panel2
     );
 
-    orbitGroup.add(satellite);
+    satellite.position.set(
+      2.15,
+      .2,
+      .2
+    );
 
+    earthGroup.add(satellite);
+
+    /* Earth resizing */
 
     function resizeEarth() {
 
+      const rect =
+        earthCanvas.parentElement.getBoundingClientRect();
+
       const width =
-        earthCanvas.clientWidth;
+        Math.max(1, rect.width);
 
       const height =
-        earthCanvas.clientHeight;
-
-      earthCamera.aspect =
-        width / height;
-
-      earthCamera.updateProjectionMatrix();
+        Math.max(1, rect.height);
 
       earthRenderer.setSize(
         width,
@@ -3659,33 +3708,40 @@
         false
       );
 
+      earthCamera.aspect =
+        width / height;
+
+      earthCamera.updateProjectionMatrix();
+
     }
+
+    resizeEarth();
 
     window.addEventListener(
       "resize",
       resizeEarth
     );
 
-    let earthMouseX = 0;
-    let earthMouseY = 0;
+    let mouseX = 0;
+    let mouseY = 0;
 
     window.addEventListener(
-      "mousemove",
-      e => {
+      "pointermove",
+      event => {
 
-        earthMouseX =
-          (e.clientX /
+        mouseX =
+          (event.clientX /
             window.innerWidth -
-            .5) * .4;
+            .5) * 2;
 
-        earthMouseY =
-          (e.clientY /
+        mouseY =
+          (event.clientY /
             window.innerHeight -
-            .5) * .25;
+            .5) * 2;
 
-      }
+      },
+      { passive: true }
     );
-
 
     function animateEarth() {
 
@@ -3694,155 +3750,160 @@
       );
 
       earth.rotation.y += .0018;
+      innerEarth.rotation.y += .0009;
 
-      wire.rotation.y += .0018;
+      ring1.rotation.z += .001;
+      ring2.rotation.z -= .0007;
 
-      orbitGroup.rotation.y += .003;
+      const time =
+        performance.now() * .001;
 
-      satellite.rotation.y += .01;
+      satellite.position.y =
+        Math.sin(time * .8) * .18;
 
       earthGroup.rotation.x +=
-        (earthMouseY -
-          earthGroup.rotation.x) * .01;
+        (-mouseY * .08 -
+          earthGroup.rotation.x) *
+        .015;
 
-      earthGroup.rotation.z +=
-        (earthMouseX -
-          earthGroup.rotation.z) * .01;
+      earthGroup.rotation.y +=
+        (mouseX * .12 -
+          earthGroup.rotation.y) *
+        .015;
 
       earthRenderer.render(
         earthScene,
         earthCamera
       );
-
     }
 
     animateEarth();
 
-
-    /* =========================================================
+    /* =======================================================
        NEURAL NETWORK
-    ========================================================== */
+    ======================================================== */
 
     const neuralCanvas =
-      document.getElementById(
-        "neuralCanvas"
-      );
+      document.getElementById("neuralCanvas");
 
     const neuralCtx =
       neuralCanvas.getContext("2d");
 
-    let nodes = [];
+    let neuralWidth = 0;
+    let neuralHeight = 0;
+    let neuralNodes = [];
 
     function resizeNeural() {
 
       const rect =
-        neuralCanvas.parentElement
-          .getBoundingClientRect();
+        neuralCanvas.parentElement.getBoundingClientRect();
+
+      const dpr =
+        Math.min(
+          window.devicePixelRatio || 1,
+          2
+        );
+
+      neuralWidth =
+        Math.max(1, rect.width);
+
+      neuralHeight =
+        Math.max(1, rect.height);
 
       neuralCanvas.width =
-        rect.width *
-        devicePixelRatio;
+        neuralWidth * dpr;
 
       neuralCanvas.height =
-        rect.height *
-        devicePixelRatio;
+        neuralHeight * dpr;
 
       neuralCanvas.style.width =
-        rect.width + "px";
+        `${neuralWidth}px`;
 
       neuralCanvas.style.height =
-        rect.height + "px";
+        `${neuralHeight}px`;
 
       neuralCtx.setTransform(
-        devicePixelRatio,
+        dpr,
         0,
         0,
-        devicePixelRatio,
+        dpr,
         0,
         0
       );
 
-      nodes = [];
+      neuralNodes =
+        Array.from(
+          { length: 36 },
+          () => ({
+            x:
+              Math.random() *
+              neuralWidth,
 
-      for (
-        let i = 0;
-        i < 65;
-        i++
-      ) {
+            y:
+              Math.random() *
+              neuralHeight,
 
-        nodes.push({
+            vx:
+              (Math.random() - .5) *
+              .25,
 
-          x: Math.random() * rect.width,
-          y: Math.random() * rect.height,
+            vy:
+              (Math.random() - .5) *
+              .25,
 
-          vx:
-            (Math.random() - .5) * .25,
-
-          vy:
-            (Math.random() - .5) * .25,
-
-          r:
-            Math.random() * 2 + 1
-
-        });
-
-      }
-
+            r:
+              Math.random() * 2 +
+              1
+          })
+        );
     }
 
     function animateNeural() {
 
-      requestAnimationFrame(
-        animateNeural
-      );
-
-      const rect =
-        neuralCanvas.parentElement
-          .getBoundingClientRect();
-
       neuralCtx.clearRect(
         0,
         0,
-        rect.width,
-        rect.height
+        neuralWidth,
+        neuralHeight
       );
 
-      nodes.forEach(n => {
+      for (const node of neuralNodes) {
 
-        n.x += n.vx;
-        n.y += n.vy;
+        node.x += node.vx;
+        node.y += node.vy;
 
         if (
-          n.x < 0 ||
-          n.x > rect.width
+          node.x < 0 ||
+          node.x > neuralWidth
         ) {
-          n.vx *= -1;
+          node.vx *= -1;
         }
 
         if (
-          n.y < 0 ||
-          n.y > rect.height
+          node.y < 0 ||
+          node.y > neuralHeight
         ) {
-          n.vy *= -1;
+          node.vy *= -1;
         }
-
-      });
-
+      }
 
       for (
         let i = 0;
-        i < nodes.length;
+        i < neuralNodes.length;
         i++
       ) {
 
         for (
           let j = i + 1;
-          j < nodes.length;
+          j < neuralNodes.length;
           j++
         ) {
 
-          const a = nodes[i];
-          const b = nodes[j];
+          const a =
+            neuralNodes[i];
+
+          const b =
+            neuralNodes[j];
 
           const dx =
             a.x - b.x;
@@ -3856,7 +3917,12 @@
               dy * dy
             );
 
-          if (distance < 145) {
+          if (distance < 130) {
+
+            const opacity =
+              (1 -
+                distance / 130) *
+              .28;
 
             neuralCtx.beginPath();
 
@@ -3871,42 +3937,45 @@
             );
 
             neuralCtx.strokeStyle =
-              `rgba(0,234,255,${
-                (1 -
-                  distance / 145) *
-                .15
-              })`;
+              `rgba(0,229,255,${opacity})`;
 
-            neuralCtx.lineWidth = .7;
+            neuralCtx.lineWidth =
+              .6;
 
             neuralCtx.stroke();
-
           }
-
         }
-
       }
 
-
-      nodes.forEach(n => {
+      for (const node of neuralNodes) {
 
         neuralCtx.beginPath();
 
         neuralCtx.arc(
-          n.x,
-          n.y,
-          n.r,
+          node.x,
+          node.y,
+          node.r,
           0,
           Math.PI * 2
         );
 
         neuralCtx.fillStyle =
-          "rgba(0,234,255,.55)";
+          "rgba(0,229,255,.75)";
+
+        neuralCtx.shadowBlur =
+          12;
+
+        neuralCtx.shadowColor =
+          "#00e5ff";
 
         neuralCtx.fill();
 
-      });
+        neuralCtx.shadowBlur = 0;
+      }
 
+      requestAnimationFrame(
+        animateNeural
+      );
     }
 
     resizeNeural();
@@ -3917,386 +3986,452 @@
       resizeNeural
     );
 
-
-    /* =========================================================
-       REVEAL OBSERVER
-    ========================================================== */
+    /* =======================================================
+       SCROLL REVEAL
+    ======================================================== */
 
     const revealObserver =
       new IntersectionObserver(
-
         entries => {
 
           entries.forEach(entry => {
 
-            if (
-              entry.isIntersecting
-            ) {
+            if (entry.isIntersecting) {
 
-              entry.target
-                .classList
-                .add("active");
+              entry.target.classList.add(
+                "visible"
+              );
 
               revealObserver.unobserve(
                 entry.target
               );
-
             }
 
           });
 
         },
-
         {
           threshold: .12
         }
-
       );
-
 
     document
       .querySelectorAll(".reveal")
-      .forEach(el => {
+      .forEach(element => {
 
-        revealObserver.observe(el);
+        revealObserver.observe(element);
 
       });
 
-
-    /* =========================================================
+    /* =======================================================
        SKILL BARS
-    ========================================================== */
+    ======================================================== */
 
     const skillObserver =
       new IntersectionObserver(
-
         entries => {
 
           entries.forEach(entry => {
 
-            if (
-              entry.isIntersecting
-            ) {
-
-              const progress =
-                entry.target;
-
-              progress.style.width =
-                progress.dataset.width;
-
-              skillObserver.unobserve(
-                progress
-              );
-
+            if (!entry.isIntersecting) {
+              return;
             }
 
+            entry.target
+              .querySelectorAll(".skill-bar")
+              .forEach(bar => {
+
+                bar.style.width =
+                  `${bar.dataset.width}%`;
+
+              });
+
+            skillObserver.unobserve(
+              entry.target
+            );
           });
 
         },
-
         {
-          threshold: .5
+          threshold: .2
         }
-
       );
 
-
     document
-      .querySelectorAll(
-        ".skill-progress"
-      )
-      .forEach(el => {
+      .querySelectorAll(".skills-grid > div")
+      .forEach(group => {
 
-        skillObserver.observe(el);
+        skillObserver.observe(group);
 
       });
 
-
-    /* =========================================================
-       MAGNETIC BUTTON EFFECT
-    ========================================================== */
+    /* =======================================================
+       MAGNETIC BUTTONS
+    ======================================================== */
 
     document
-      .querySelectorAll(".btn")
-      .forEach(btn => {
+      .querySelectorAll(".magnetic")
+      .forEach(button => {
 
-        btn.addEventListener(
-          "mousemove",
-          e => {
+        button.addEventListener(
+          "pointermove",
+          event => {
 
             const rect =
-              btn.getBoundingClientRect();
+              button.getBoundingClientRect();
 
             const x =
-              e.clientX -
+              event.clientX -
               rect.left -
               rect.width / 2;
 
             const y =
-              e.clientY -
+              event.clientY -
               rect.top -
               rect.height / 2;
 
-            btn.style.transform =
-              `translate(${x * .08}px,
-                          ${y * .08}px)`;
+            button.style.transform =
+              `translate(${x * .08}px, ${y * .08}px)`;
 
           }
         );
 
-        btn.addEventListener(
-          "mouseleave",
+        button.addEventListener(
+          "pointerleave",
           () => {
 
-            btn.style.transform = "";
+            button.style.transform = "";
 
           }
         );
 
       });
 
-
-    /* =========================================================
-       CARD TILT
-    ========================================================== */
-
-    document
-      .querySelectorAll(
-        ".research-card, .project-card, .achievement"
-      )
-      .forEach(card => {
-
-        card.addEventListener(
-          "mousemove",
-          e => {
-
-            const rect =
-              card.getBoundingClientRect();
-
-            const x =
-              e.clientX -
-              rect.left;
-
-            const y =
-              e.clientY -
-              rect.top;
-
-            const rotateX =
-              ((y - rect.height / 2) /
-                rect.height) *
-              -4;
-
-            const rotateY =
-              ((x - rect.width / 2) /
-                rect.width) *
-              4;
-
-            card.style.transform =
-              `perspective(900px)
-               rotateX(${rotateX}deg)
-               rotateY(${rotateY}deg)
-               translateY(-6px)`;
-
-          }
-        );
-
-        card.addEventListener(
-          "mouseleave",
-          () => {
-
-            card.style.transform = "";
-
-          }
-        );
-
-      });
-
-
-    /* =========================================================
+    /* =======================================================
        ACTIVE NAVIGATION
-    ========================================================== */
+    ======================================================== */
 
     const sections =
       document.querySelectorAll(
-        "section[id]"
+        "main section[id]"
       );
 
-    const navAnchors =
+    const navItems =
       document.querySelectorAll(
         ".nav-links a"
       );
 
-    window.addEventListener(
-      "scroll",
-      () => {
+    const sectionObserver =
+      new IntersectionObserver(
+        entries => {
 
-        let current = "";
+          entries.forEach(entry => {
 
-        sections.forEach(section => {
+            if (!entry.isIntersecting) {
+              return;
+            }
 
-          const top =
-            section.offsetTop - 180;
+            navItems.forEach(link => {
 
-          if (
-            window.scrollY >= top
-          ) {
+              link.classList.remove(
+                "active"
+              );
 
-            current =
-              section.getAttribute("id");
+              if (
+                link.getAttribute("href") ===
+                `#${entry.target.id}`
+              ) {
+                link.classList.add(
+                  "active"
+                );
+              }
 
-          }
+            });
 
-        });
+          });
 
-        navAnchors.forEach(anchor => {
+        },
+        {
+          rootMargin:
+            "-35% 0px -55% 0px"
+        }
+      );
 
-          anchor.style.color = "";
+    sections.forEach(section => {
 
-          if (
-            anchor.getAttribute("href") ===
-            "#" + current
-          ) {
+      sectionObserver.observe(section);
 
-            anchor.style.color =
-              "var(--cyan)";
+    });
 
-          }
-
-        });
-
-      }
-    );
-
-
-    /* =========================================================
-       SMOOTH PARALLAX
-    ========================================================== */
-
-    const orbs =
-      document.querySelectorAll(".orb");
+    /* =======================================================
+       ORB PARALLAX
+    ======================================================== */
 
     window.addEventListener(
-      "scroll",
-      () => {
+      "pointermove",
+      event => {
+
+        const x =
+          (event.clientX /
+            window.innerWidth -
+            .5);
 
         const y =
-          window.scrollY;
+          (event.clientY /
+            window.innerHeight -
+            .5);
 
-        orbs.forEach(
-          (orb, index) => {
+        document
+          .querySelector(".orb.one")
+          .style.transform =
+          `translate(${x * 30}px, ${y * 20}px)`;
 
-            orb.style.transform =
-              `translateY(${y *
-                (.02 + index * .01)}px)`;
+        document
+          .querySelector(".orb.two")
+          .style.transform =
+          `translate(${x * -25}px, ${y * -20}px)`;
 
-          }
-        );
+        document
+          .querySelector(".orb.three")
+          .style.transform =
+          `translate(${x * 20}px, ${y * 25}px)`;
 
-      }
+      },
+      { passive: true }
     );
 
-
-    /* =========================================================
+    /* =======================================================
        KEYBOARD SHORTCUT
-    ========================================================== */
+    ======================================================== */
 
     document.addEventListener(
       "keydown",
-      e => {
+      event => {
 
         if (
-          e.key === "/" &&
-          !["INPUT", "TEXTAREA"].includes(
-            document.activeElement.tagName
-          )
+          event.key === "/" &&
+          document.activeElement.tagName !== "INPUT" &&
+          document.activeElement.tagName !== "TEXTAREA"
         ) {
 
-          e.preventDefault();
+          event.preventDefault();
 
           document
             .getElementById("contact")
             .scrollIntoView({
               behavior: "smooth"
             });
+        }
 
+        if (event.key === "Escape") {
+          closeModal();
         }
 
       }
     );
 
+    /* =======================================================
+       THEME
+    ======================================================== */
 
-    /* =========================================================
-       ENHANCEMENT SCRIPTS: Progress, Theme, Telemetry, Modal
-    ========================================================= */
+    const themeToggle =
+      document.getElementById("themeToggle");
 
-    // Progress bar (safe)
-    const progressBar = document.getElementById('progressBar');
-    function updateProgress(){
-      if (!progressBar) return;
-      const h = document.documentElement.scrollHeight - window.innerHeight;
-      const pct = (window.scrollY / Math.max(1,h)) * 100;
-      progressBar.style.width = pct + '%';
+    const savedTheme =
+      localStorage.getItem(
+        "neo_theme"
+      );
+
+    if (savedTheme === "neon") {
+      document.body.classList.add(
+        "neon-theme"
+      );
     }
-    window.addEventListener('scroll', updateProgress);
-    updateProgress();
 
-    // Theme toggle (neon) - safe binding
-    const themeToggle = document.getElementById('themeToggle');
-    const themeKey = 'neo_theme';
-    function setTheme(v){
-      if(v === 'neon') document.documentElement.classList.add('neon-theme');
-      else document.documentElement.classList.remove('neon-theme');
-      try{ localStorage.setItem(themeKey, v); } catch(e){}
+    themeToggle.addEventListener(
+      "click",
+      () => {
+
+        document.body.classList.toggle(
+          "neon-theme"
+        );
+
+        localStorage.setItem(
+          "neo_theme",
+          document.body.classList.contains(
+            "neon-theme"
+          )
+            ? "neon"
+            : "default"
+        );
+
+      }
+    );
+
+    /* =======================================================
+       CONTACT MODAL
+    ======================================================== */
+
+    const modal =
+      document.getElementById(
+        "contactModal"
+      );
+
+    const modalClose =
+      document.getElementById(
+        "modalClose"
+      );
+
+    const modalCopyEmail =
+      document.getElementById(
+        "modalCopyEmail"
+      );
+
+    const emailButton =
+      document.getElementById(
+        "emailButton"
+      );
+
+    function openModal() {
+
+      modal.classList.add("active");
+
+      modal.setAttribute(
+        "aria-hidden",
+        "false"
+      );
+
+      document.body.style.overflow =
+        "hidden";
     }
-    // init
-    try{
-      const saved = localStorage.getItem(themeKey) || 'default';
-      setTheme(saved);
-    }catch(e){ setTheme('default'); }
-    if (themeToggle) {
-      themeToggle.addEventListener('click', ()=>{
-        const next = document.documentElement.classList.contains('neon-theme') ? 'default' : 'neon';
-        setTheme(next);
-        if (themeToggle.animate) themeToggle.animate([{transform:'scale(.96)'},{transform:'scale(1)'}],{duration:180});
+
+    function closeModal() {
+
+      modal.classList.remove("active");
+
+      modal.setAttribute(
+        "aria-hidden",
+        "true"
+      );
+
+      document.body.style.overflow =
+        "";
+    }
+
+    document
+      .querySelectorAll(
+        'a[href="#contact"]'
+      )
+      .forEach(link => {
+
+        link.addEventListener(
+          "click",
+          event => {
+
+            if (
+              link.classList.contains(
+                "project-link"
+              ) ||
+              link.classList.contains(
+                "nav-cta"
+              )
+            ) {
+              event.preventDefault();
+              openModal();
+            }
+
+          }
+        );
+
       });
+
+    emailButton.addEventListener(
+      "click",
+      openModal
+    );
+
+    modalClose.addEventListener(
+      "click",
+      closeModal
+    );
+
+    modal.addEventListener(
+      "click",
+      event => {
+
+        if (event.target === modal) {
+          closeModal();
+        }
+
+      }
+    );
+
+    async function copyEmail() {
+
+      try {
+
+        await navigator.clipboard.writeText(
+          CONFIG.email
+        );
+
+        const original =
+          modalCopyEmail.textContent;
+
+        modalCopyEmail.textContent =
+          "Email Copied";
+
+        setTimeout(() => {
+          modalCopyEmail.textContent =
+            original;
+        }, 1600);
+
+      } catch {
+
+        window.prompt(
+          "Copy this email:",
+          CONFIG.email
+        );
+
+      }
+
     }
 
-    // Telemetry simulation (safe)
-    const teleLat = document.getElementById('tele-lat');
-    const teleCpu = document.getElementById('tele-cpu');
-    const teleMem = document.getElementById('tele-mem');
-    function rand(min,max){return Math.floor(min + Math.random()*(max-min));}
-    function tickTelemetry(){
-      if (teleLat) teleLat.textContent = (rand(18,72)) + ' ms';
-      if (teleCpu) teleCpu.textContent = (rand(6,48)) + ' %';
-      if (teleMem) teleMem.textContent = (rand(22,74)) + ' %';
+    modalCopyEmail.addEventListener(
+      "click",
+      copyEmail
+    );
+
+    /* =======================================================
+       TELEMETRY
+    ======================================================== */
+
+    function updateTelemetry() {
+
+      const elements =
+        document.querySelectorAll(
+          ".hud-value"
+        );
+
+      if (!elements.length) {
+        return;
+      }
+
+      const value =
+        Math.floor(
+          80 + Math.random() * 20
+        );
+
+      elements[
+        elements.length - 1
+      ].textContent =
+        `TELEMETRY: ${value}%`;
+
     }
-    setInterval(tickTelemetry, 2200);
-    tickTelemetry();
 
-    // Modal: open via 'Connect' buttons and copy email (safe)
-    const modal = document.getElementById('modalResume');
-    const modalBackdrop = document.getElementById('modalBackdrop');
-    const modalClose = document.getElementById('modalClose');
-    const copyEmail = document.getElementById('copyEmail');
-
-    function openModal(){ if (!modal) return; modal.setAttribute('aria-hidden','false'); }
-    function closeModal(){ if (!modal) return; modal.setAttribute('aria-hidden','true'); }
-
-    document.querySelectorAll('a[href="#contact"], .nav-cta').forEach(el=>{
-      el.addEventListener('click', (e)=>{ e.preventDefault(); openModal(); });
-    });
-
-    if (modalBackdrop) modalBackdrop.addEventListener('click', closeModal);
-    if (modalClose) modalClose.addEventListener('click', closeModal);
-
-    if (copyEmail) copyEmail.addEventListener('click', async ()=>{
-      try{ await navigator.clipboard.writeText('your-email@example.com');
-        copyEmail.textContent = 'Copied ✓';
-        setTimeout(()=>copyEmail.textContent='Copy Email',1600);
-      } catch(e){ alert('Unable to copy.'); }
-    });
-
+    setInterval(
+      updateTelemetry,
+      2200
+    );
 
   </script>
 
