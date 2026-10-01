@@ -1,200 +1,186 @@
+ <div align="center">
 
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
-
-<div align="center">
-
-<img src="assets/banner.png" width="100%" alt="Rishabh Rathore Banner"/>
+<img src="assets/banner.png" width="100%" alt="Rishabh Rathore | Technology & Innovation"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;NLP+%26+AI+Practitioner;Open+Source+Contributor;Turning+Ideas+Into+Impact" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Data+Science+%26+AI+Enthusiast;Machine+Learning+Explorer;NLP+%26+Deep+Learning;Building+Intelligent+Solutions;Innovating+Through+Code" alt="Typing introduction"/>
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+**STUDENT @ IIT PATNA · DATA SCIENCE · ARTIFICIAL INTELLIGENCE**
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<h2 align="center">01 / ABOUT ME</h2>
 
-## 👨‍💻 About Me
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### Rishabh Rathore
 
-**Rishabh Rathore** is a technology enthusiast and student at **IIT Patna**, passionate about transforming complex challenges into intelligent, data-driven solutions.
+**Technology Enthusiast | Data Science | AI & ML**
 
-- 🎓 Student at **Indian Institute of Technology, Patna**
-- 🧠 Interested in **Data Science, AI & Machine Learning**
-- 🔬 Exploring **Natural Language Processing & Deep Learning**
-- 💻 Experienced in Python, C/C++, SQL and data analytics
-- 🌱 Continuously learning, building and experimenting
-- 🌐 Interested in Open Source, research and innovation
-- 🎯 Focused on creating meaningful real-world impact
+A passionate student at **Indian Institute of Technology, Patna**, driven by curiosity to explore the frontiers of Data Science, Artificial Intelligence and emerging technologies.
+
+He believes in turning complex challenges into intelligent, scalable and impactful solutions through analytical thinking, research and engineering.
+
+* 🎓 Student at **IIT Patna**
+* 🧠 Exploring **Artificial Intelligence & Machine Learning**
+* 📊 Interested in **Data Science, NLP & Data Analytics**
+* 💻 Programming with **Python, C/C++ & SQL**
+* 🔬 Experience in research, data annotation and development
+* 🌐 Interested in **Open Source & Technology Innovation**
+* 🚀 Focused on continuous learning and real-world problem solving
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-
-## ⚡ Tech Stack & Expertise
+<h2 align="center">02 / TECHNICAL ARSENAL</h2>
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql&theme=dark" />
+### PROGRAMMING LANGUAGES
 
-### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql&theme=light" alt="Programming skills"/>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask&theme=dark"/>
+### DATA SCIENCE & ARTIFICIAL INTELLIGENCE
+
+<img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=EAF2FF"/>
+<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=EAF2FF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=EAF2FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=EAF2FF"/>
+<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=EAF2FF"/>
+
+### DEVELOPMENT & TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask&theme=light" alt="Developer tools"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+<h2 align="center">03 / PROFESSIONAL EXPERIENCE</h2>
 
-## 💼 Experience & Research
+### Web Development & NLP Intern
 
-<details open>
-<summary><b>Web Development & NLP Intern | Syn... Labs</b></summary>
+**Syn... Labs** · *September 2023 – Present*
 
-📅 September 2023 – Present *(Update dates as applicable)*
+* Worked on web development and Natural Language Processing.
+* Explored NLP techniques and their practical applications.
+* Contributed to technical development and project workflows.
 
-- Worked on web development and Natural Language Processing.
-- Explored NLP techniques and their practical applications.
-- Contributed to technical development and project workflows.
+### Summer Research Intern
 
-</details>
+**Indian Institute of Technology, Patna** · *June 2023 – July 2023*
 
-<details>
-<summary><b>Summer Research Intern | IIT Patna</b></summary>
+* Conducted data collection, annotation and ground-truthing for research.
+* Applied deep learning methods to analyze data.
+* Contributed to research activities and technical documentation.
 
-📅 June 2023 – July 2023
+### Research Intern
 
-- Conducted data collection, annotation and ground-truthing for a research project.
-- Applied deep learning methods to understand and analyze data.
-- Contributed to research activities and technical documentation.
+**Indian Institute of Technology, Patna** · *September 2022 – December 2022*
 
-</details>
+* Worked on image-based research, data collection and annotation.
+* Organized and prepared datasets for research workflows.
+* Explored computer vision and machine learning applications.
 
-<details>
-<summary><b>Research Intern | IIT Patna</b></summary>
+### Python Intern
 
-📅 September 2022 – December 2022
+**DevIncept** · *July 2021 – August 2021*
 
-- Worked on image-based research and data collection.
-- Assisted with image annotation and data organization.
-- Explored computer vision and machine learning workflows.
-
-</details>
-
-<details>
-<summary><b>Python Intern | DevIncept</b></summary>
-
-📅 July 2021 – August 2021
-
-- Developed Python-based applications and explored programming concepts.
-- Worked on practical coding assignments and problem-solving.
-- Strengthened foundational software development skills.
-
-</details>
+* Developed Python-based applications and completed programming assignments.
+* Applied problem-solving and logical programming techniques.
+* Strengthened foundational software development skills.
 
 ---
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-
-## 🚀 Featured Projects
+<h2 align="center">04 / SELECTED PROJECTS</h2>
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155&icon_color=2563EB" alt="Featured project one"/>
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155&icon_color=2563EB" alt="Featured project two"/>
 </a>
 
 </div>
 
-> Replace the example project names with your actual public repository names and add more project cards if needed.
+> Replace these placeholders with actual public repository names. You can add more project cards as your portfolio grows.
 
 ---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-
-## 📊 GitHub Analytics
+<h2 align="center">05 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155&icon_color=2563EB&ring_color=2563EB&include_all_commits=true" alt="GitHub stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=1D4ED8&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-## 🌐 Let's Connect
+<h2 align="center">06 / CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-I'm always open to connecting with fellow developers, researchers and innovators, exploring ideas, and collaborating on meaningful projects.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=1e40af&line=2563eb&point=0f172a&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity"/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Get_in_Touch-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+</div>
+
+---
+
+<h2 align="center">07 / BEYOND THE CODE</h2>
+
+<div align="center">
+
+|       🔍 EXPLORE      |        🧠 LEARN       |        🚀 BUILD       |
+| :-------------------: | :-------------------: | :-------------------: |
+| Emerging Technologies | AI & Machine Learning | Intelligent Solutions |
+| Research & Innovation |      Data Science     |  Real-world Projects  |
+|      Open Source      |     New Frameworks    |  Collaborative Ideas  |
+
+</div>
+
+---
+
+<h2 align="center">08 / CONNECT & COLLABORATE</h2>
+
+<div align="center">
+
+**Great ideas begin with meaningful connections.**
+
+Open to technical discussions, research opportunities, open-source collaboration and innovative projects.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
 
 <br/><br/>
 
-### ✨ "Innovate. Build. Learn. Repeat."
+**"Innovate with purpose. Engineer with precision. Create with impact."**
 
-<sub>Designed with curiosity, powered by code, driven by innovation.</sub>
+<sub>Designed & Developed by Rishabh Rathore · IIT Patna</sub>
 
 </div>
